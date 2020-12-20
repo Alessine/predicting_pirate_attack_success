@@ -11,16 +11,8 @@ This repo took shape during my Data Science course at Propulsion Academy in Zuri
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#assignment-description">Assignment Description</a>
-    </li>
-    <li>
-      <a href="#data-cleaning">Data cleaning</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#assignment-description">Assignment Description</a></li>
+    <li><a href="#data-cleaning">Data cleaning</a></li>
     <li><a href="#visualizations">Visualizations of different features</a></li>
     <li><a href="#preprocessing">Preprocessing</a></li>
     <li><a href="#evaluating-different-models">Evaluating different models</a></li>
