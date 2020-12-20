@@ -38,6 +38,10 @@ Following is a short description of the assignment:
 <!-- Approach -->
 ## Approach
 
-The approach taken to solve the problem is quite standard. First, the data was cleaned (section 2 in the jupyter notebook), then some interesting visualizations were created (section 3) to explore the data set and see if there are any trends that are clearly visible.
+The systematic approach taken to solve the problem is described below. 
+
+First, the data was cleaned (section 2 in the jupyter notebook), then some interesting visualizations were created (section 3) to explore the data set and see if there are any trends that are clearly visible.
+
 The data was then preprocessed (section 4), which meant one-hot-encoding most of the variables, since much of the data is categorical. The selected features were then fed into seven different untuned baseline models (section 5). The model with the best performance was fine-tuned and tested.
+
 As a final step, feature importance and SHAP values of the best model are explored to explain how the model reaches its predictions.
