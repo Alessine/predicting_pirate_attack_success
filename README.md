@@ -57,4 +57,4 @@ As the results showed, the success of pirate attacks can only partially be predi
 <!-- Contact -->
 ## Contact
 
-If you find this repo interesting or would like to suggest improvements, get in touch. I would be happy to hear from you.
+If you find this repo interesting or would like to suggest improvements, please get in touch. I would be happy to hear from you.
