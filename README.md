@@ -26,9 +26,11 @@ This repo took shape during my Data Science course at Propulsion Academy in Zuri
 Following is a short description of the assignment:
 
 >You are provided with a dataset on vessels that have been attacked by pirates. Your task is to predict whether an attack is likely to be successful.
+>
 >Clean and preprocess the data. This includes:
 >- Select features.
 >- One-hot encode categorical variables.
 >- How do you handle the date?
 >- Aggregate categories with few occurrences.
+>
 >Compare the performance of different models. Run all of them, identify the best performing one and tune it. Finally, explain how it reaches a prediction. </font>
