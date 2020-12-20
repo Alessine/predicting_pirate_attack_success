@@ -36,7 +36,7 @@ Following is a short description of the assignment:
 <!-- Approach -->
 ## Approach
 
-The systematic approach taken to solve the problem was as follows. 
+The following approach taken to solve the problem: 
 
 First, the data was cleaned (section 2 in the jupyter notebook), then some interesting visualizations were created (section 3) to explore the data set and see if there are any trends that are clearly visible.
 
