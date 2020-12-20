@@ -4,7 +4,10 @@ This repo took shape during my Data Science course at Propulsion Academy in Zuri
 
 ![](pirates_asterix.jpg)
 
-<!-- TABLE OF CONTENTS -->
+<font size = "2"> Image copyright: Asterix & Obelix </font>
+
+
+## <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
