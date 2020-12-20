@@ -1,0 +1,803 @@
+,DATE (LT),REGION,COUNTRY,INCIDENT TYPE,VESSEL TYPE,MAERSK?,VESSEL ACTIVITY LOCATION,LAT,LONG,TIME OF DAY,ATTACKS,ATTACK SUCCESS,YEAR,MONTH,WEEK,DAY,WEEKDAY,YEAR_MONTH
+703,2015-01-04,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,12.5533333333333,43.4266666666667,Unknown,1,0,2015,1,1,4,6,2015-01
+702,2015-01-04,South East Asia,Singapore,Theft at sea,Tug,0,Off shore,1.3245,104.5415,Morning,1,1,2015,1,1,4,6,2015-01
+701,2015-01-04,North Africa,Libya,Other maritime risk,Crude oil tanker,0,Anchorage,32.7801163888889,22.663078333333303,Afternoon,1,1,2015,1,1,4,6,2015-01
+700,2015-01-06,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,13.253333333333302,42.9566666666667,Afternoon,1,0,2015,1,2,6,1,2015-01
+699,2015-01-07,West Africa,Nigeria,Kidnap/ransom at anchorage,Unknown vessel type,0,Anchorage,4.63829722222222,6.81289666666667,Unknown,1,1,2015,1,2,7,2,2015-01
+698,2015-01-08,South East Asia,Indonesia,"Failed attack, robbery",Chemical tanker,0,Anchorage,1.12166666666667,104.178333333333,Night,1,0,2015,1,2,8,3,2015-01
+697,2015-01-08,South East Asia,Indonesia,Theft at sea,Tug,0,Off shore,1.19333333333333,103.64683333333299,Afternoon,1,1,2015,1,2,8,3,2015-01
+696,2015-01-09,Americas,Colombia,Theft at anchorage,General cargo vessel,0,Anchorage,10.3051666666667,-74.44766666666669,Morning,1,1,2015,1,2,9,4,2015-01
+695,2015-01-10,South East Asia,Indonesia,"Failed attack, robbery",Gas tanker,0,Anchorage,1.08,104.181666666667,Night,1,0,2015,1,2,10,5,2015-01
+694,2015-01-11,West Africa,Nigeria,Hijacking at sea,Product tanker,0,Off shore,3.7333333333333303,4.98333333333333,Unknown,1,1,2015,1,2,11,6,2015-01
+693,2015-01-12,Eastern Mediterranean,Iraq,Other maritime risk,Unknown vessel type,0,Unknown,30.030163611111103,47.933006388888906,Unknown,1,1,2015,1,3,12,0,2015-01
+692,2015-01-13,North Africa,Libya,Other maritime risk,Unknown vessel type,0,Unknown,32.3161519444444,19.9401855555556,Unknown,1,1,2015,1,3,13,1,2015-01
+691,2015-01-14,South East Asia,Indonesia,Armed robbery at berth,Tug,0,Berth,1.03433333333333,103.90833333333299,Night,1,1,2015,1,3,14,2,2015-01
+690,2015-01-14,West Africa,Ghana,Armed robbery at sea,Bulk carrier,0,Off shore,3.4,1.35,Unknown,1,1,2015,1,3,14,2,2015-01
+689,2015-01-15,West Africa,Cote D'Ivoire,Armed robbery at anchorage,Merchant vessel,0,Anchorage,5.22762583333333,-2.0099486111111102,Night,1,1,2015,1,3,15,3,2015-01
+688,2015-01-17,West Africa,Ghana,Anti-piracy/naval operation,Product tanker,0,Off shore,5.3,0.33333333333333304,Unknown,1,0,2015,1,3,17,5,2015-01
+687,2015-01-18,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.11666666666667,103.516666666667,Morning,1,1,2015,1,3,18,6,2015-01
+686,2015-01-18,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,5.5077074999999995,5.5281830555555596,Unknown,1,1,2015,1,3,18,6,2015-01
+685,2015-01-20,South East Asia,Indonesia,Armed robbery at anchorage,Other,0,Anchorage,-4.01518222222222,106.829119444444,Night,1,1,2015,1,4,20,1,2015-01
+684,2015-01-20,West Africa,Cote D'Ivoire,Suspicious activity at sea,Supply vessel,0,Off shore,4.065,-2.16,Unknown,1,0,2015,1,4,20,1,2015-01
+683,2015-01-21,West Africa,Liberia,Theft at berth,Product tanker,0,Berth,6.321189722222219,-9.19564111111111,Unknown,1,1,2015,1,4,21,2,2015-01
+682,2015-01-22,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.1,103.53333333333299,Night,1,0,2015,1,4,22,3,2015-01
+681,2015-01-22,West Africa,Angola,Suspicious activity at sea,Unknown vessel type,0,Unknown,-10.475,6.57166666666667,Unknown,1,0,2015,1,4,22,3,2015-01
+680,2015-01-22,South East Asia,Indonesia,Armed robbery at anchorage,Other,0,Anchorage,-4.15666666666667,106.93,Evening,1,1,2015,1,4,22,3,2015-01
+679,2015-01-23,South East Asia,Singapore,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,1.29145944444444,103.749003333333,Unknown,1,0,2015,1,4,23,4,2015-01
+678,2015-01-23,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Unknown,3.5,5.56666666666667,Evening,1,0,2015,1,4,23,4,2015-01
+677,2015-01-24,North Africa,Libya,Other maritime risk,Product tanker,0,Unknown,32.4772519444444,15.268981944444402,Unknown,1,1,2015,1,4,24,5,2015-01
+676,2015-01-24,Eastern Mediterranean,Ukraine,Other maritime risk,Unknown vessel type,0,Unknown,47.11949722222221,37.6846505555555,Unknown,1,1,2015,1,4,24,5,2015-01
+675,2015-01-24,East Africa,Oman,Suspicious activity at sea,Merchant vessel,0,Off shore,24.6166666666667,57.866666666666696,Unknown,1,0,2015,1,4,24,5,2015-01
+674,2015-01-25,South East Asia,Vietnam,"Failed attack, robbery",Bulk carrier,0,Anchorage,10.1781666666667,107.035333333333,Morning,1,0,2015,1,4,25,6,2015-01
+671,2015-01-28,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.04166666666667,103.65,Morning,1,1,2015,1,5,28,2,2015-01
+670,2015-01-28,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,1.32316666666667,104.20583333333299,Evening,1,1,2015,1,5,28,2,2015-01
+673,2015-01-28,West Africa,Cote D'Ivoire,"Failed attack, hijacking",Product tanker,0,Off shore,5.22,-3.9583333333333304,Night,1,0,2015,1,5,28,2,2015-01
+672,2015-01-28,South East Asia,Indonesia,Theft at sea,Container ship,0,Off shore,1.1,103.53333333333299,Night,1,1,2015,1,5,28,2,2015-01
+668,2015-01-29,South East Asia,Malaysia,Anti-piracy/naval operation,Product tanker,0,Off shore,1.7005,104.507666666667,Evening,1,0,2015,1,5,29,3,2015-01
+669,2015-01-29,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Anchorage,-5.98,106.918333333333,Night,1,0,2015,1,5,29,3,2015-01
+666,2015-01-30,East Africa,India,Suspicious activity at sea,Merchant vessel,0,Off shore,7.9173,77.1186333333333,Unknown,1,0,2015,1,5,30,4,2015-01
+667,2015-01-30,South East Asia,Indonesia,Hijacking at sea,Product tanker,0,Off shore,1.6092625,125.299941944444,Unknown,1,1,2015,1,5,30,4,2015-01
+663,2015-01-31,West Africa,Benin,Hijacking at sea,Unknown vessel type,0,Off shore,4.7,2.5,Unknown,1,1,2015,1,5,31,5,2015-01
+660,2015-01-31,West Africa,Togo,Hijacking at sea,Unknown vessel type,0,Off shore,4.225,1.225,Evening,1,1,2015,1,5,31,5,2015-01
+664,2015-01-31,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.15016666666667,103.45100000000001,Night,1,1,2015,1,5,31,5,2015-01
+662,2015-01-31,West Africa,Togo,Hijacking at sea,Unknown vessel type,0,Off shore,4.45,1.9,Afternoon,1,1,2015,1,5,31,5,2015-01
+665,2015-01-31,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.15666666666667,103.45333333333299,Night,1,1,2015,1,5,31,5,2015-01
+661,2015-01-31,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Anchorage,3.9166666666666696,98.7666666666667,Unknown,1,0,2015,1,5,31,5,2015-01
+659,2015-02-01,Americas,Honduras,Armed robbery at sea,Other,0,Off shore,15.9659061111111,-86.03384388888891,Unknown,1,1,2015,2,5,1,6,2015-02
+658,2015-02-01,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,3.8916666666666697,0.0633333333333333,Morning,1,1,2015,2,5,1,6,2015-02
+657,2015-02-01,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,3.77833333333333,-0.3666666666666671,Afternoon,1,1,2015,2,5,1,6,2015-02
+656,2015-02-01,West Africa,Nigeria,Hijacking at sea,Fishing vessel,0,Off shore,5.20083333333333,2.384,Afternoon,1,1,2015,2,5,1,6,2015-02
+655,2015-02-01,West Africa,Nigeria,Hijacking at sea,Fishing vessel,0,Off shore,5.13333333333333,2.4,Unknown,1,1,2015,2,5,1,6,2015-02
+654,2015-02-01,West Africa,Nigeria,"Failed attack, hijacking",Crude oil tanker,0,Unknown,5.475,5.09233333333333,Evening,1,0,2015,2,5,1,6,2015-02
+653,2015-02-02,West Africa,Nigeria,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,4.861055277777781,6.162323055555559,Unknown,1,1,2015,2,6,2,0,2015-02
+652,2015-02-02,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,6.07626055555555,3.3638763888888903,Unknown,1,1,2015,2,6,2,0,2015-02
+651,2015-02-02,Americas,Brazil,"Failed attack, robbery",Other,0,Anchorage,-2.2817122222222204,-37.5219091666667,Night,1,0,2015,2,6,2,0,2015-02
+650,2015-02-02,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,3.2666666666666697,-0.3666666666666671,Morning,1,1,2015,2,6,2,0,2015-02
+649,2015-02-02,West Africa,Nigeria,Hijacking at sea,Fishing vessel,0,Off shore,4.26666666666667,3.8333333333333304,Unknown,1,1,2015,2,6,2,0,2015-02
+645,2015-02-03,West Africa,Nigeria,Kidnap/ransom at sea,Crude oil tanker,0,Off shore,4.205,8.07333333333333,Evening,1,1,2015,2,6,3,1,2015-02
+647,2015-02-03,West Africa,Nigeria,Hijacking at sea,Fishing vessel,0,Off shore,5.05,5.25,Night,1,1,2015,2,6,3,1,2015-02
+646,2015-02-03,West Africa,Cote D'Ivoire,Hijacking at sea,Unknown vessel type,0,Off shore,3.25,-3.38333333333333,Morning,1,1,2015,2,6,3,1,2015-02
+648,2015-02-03,South East Asia,Papua New Guinea,Armed robbery at sea,Other,0,Off shore,-9.647916388888891,150.456138611111,Afternoon,1,1,2015,2,6,3,1,2015-02
+642,2015-02-04,West Africa,Liberia,Hijacking at sea,Unknown vessel type,0,Off shore,3.5,-7.7,Evening,1,1,2015,2,6,4,2,2015-02
+643,2015-02-04,West Africa,Cote D'Ivoire,Hijacking at sea,Unknown vessel type,0,Off shore,3.2,-6.93333333333333,Morning,1,1,2015,2,6,4,2,2015-02
+641,2015-02-05,West Africa,Nigeria,"Failed attack, robbery",Chemical tanker,0,Off shore,6.4405,3.4223333333333303,Night,1,0,2015,2,6,5,3,2015-02
+644,2015-02-05,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.2,107.05,Morning,1,1,2015,2,6,5,3,2015-02
+640,2015-02-06,North Africa,Libya,Counter insurgency/military operation,Unknown vessel type,0,Unknown,32.107815,20.0500488888889,Unknown,1,1,2015,2,6,6,4,2015-02
+639,2015-02-09,West Africa,Sierra Leone,Hijacking at sea,Unknown vessel type,0,Off shore,8.30833333333333,-14.08,Morning,1,1,2015,2,7,9,0,2015-02
+638,2015-02-09,West Africa,Benin,Hijacking at sea,Unknown vessel type,0,Off shore,6.14166666666667,2.5566666666666698,Afternoon,1,1,2015,2,7,9,0,2015-02
+636,2015-02-10,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,6.26666666666667,2.96666666666667,Morning,1,1,2015,2,7,10,1,2015-02
+635,2015-02-10,South East Asia,Vietnam,Theft at berth,Container ship,0,Berth,20.830566111111104,106.796470555556,Evening,1,1,2015,2,7,10,1,2015-02
+637,2015-02-10,West Africa,Guinea,Hijacking at sea,Unknown vessel type,0,Off shore,9.43333333333333,-16.9166666666667,Morning,1,1,2015,2,7,10,1,2015-02
+634,2015-02-11,West Africa,Guinea-Bissau,Hijacking at sea,Unknown vessel type,0,Unknown,11.183333333333302,-16.7,Night,1,1,2015,2,7,11,2,2015-02
+633,2015-02-11,West Africa,Guinea-Bissau,Hijacking at sea,Unknown vessel type,0,Off shore,12.583333333333302,-16.1666666666667,Afternoon,1,1,2015,2,7,11,2,2015-02
+632,2015-02-12,West Africa,Cameroon,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,4.687845555555559,8.633376944444441,Unknown,1,1,2015,2,7,12,3,2015-02
+631,2015-02-12,West Africa,Senegal,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,12.583333333333302,-16.1666666666667,Unknown,1,0,2015,2,7,12,3,2015-02
+629,2015-02-12,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,5.2833333333333306,4.41666666666667,Morning,1,1,2015,2,7,12,3,2015-02
+628,2015-02-12,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,-2.31666666666667,114.46666666666701,Evening,1,0,2015,2,7,12,3,2015-02
+630,2015-02-12,South East Asia,Vietnam,Armed robbery at anchorage,Bulk carrier,0,Anchorage,20.6833333333333,107.2,Night,1,1,2015,2,7,12,3,2015-02
+627,2015-02-13,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,3.18333333333333,100.71666666666701,Evening,1,1,2015,2,7,13,4,2015-02
+626,2015-02-13,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,5.36666666666667,5.13333333333333,Morning,1,1,2015,2,7,13,4,2015-02
+625,2015-02-14,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,4.36666666666667,5.13333333333333,Unknown,1,1,2015,2,7,14,5,2015-02
+624,2015-02-14,South East Asia,Indonesia,Armed robbery at berth,Bulk carrier,0,Berth,3.78833333333333,98.6983333333333,Night,1,1,2015,2,7,14,5,2015-02
+623,2015-02-14,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,5.122000000000001,4.8389999999999995,Morning,1,1,2015,2,7,14,5,2015-02
+622,2015-02-14,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,20.615,106.855,Evening,1,1,2015,2,7,14,5,2015-02
+621,2015-02-15,South Asia,Bangladesh,Armed robbery at sea,Fishing vessel,0,Off shore,22.1469988888889,90.86843499999999,Unknown,1,1,2015,2,7,15,6,2015-02
+620,2015-02-15,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,4.7833333333333306,4.5,Night,1,1,2015,2,7,15,6,2015-02
+617,2015-02-16,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.15,103.433333333333,Night,1,0,2015,2,8,16,0,2015-02
+619,2015-02-16,South East Asia,Philippines,Armed robbery at sea,Fishing vessel,0,Off shore,5.7858413888888895,125.15487666666701,Unknown,1,1,2015,2,8,16,0,2015-02
+618,2015-02-16,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,5.15,5.0,Night,1,1,2015,2,8,16,0,2015-02
+616,2015-02-17,Americas,Brazil,Armed robbery at anchorage,Other,0,Anchorage,-1.4916075,-43.6827991666667,Evening,1,1,2015,2,8,17,1,2015-02
+615,2015-02-19,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,5.0333333333333306,4.63333333333333,Afternoon,1,1,2015,2,8,19,3,2015-02
+614,2015-02-20,West Africa,Nigeria,Anti-piracy/naval operation,Tanker,0,Off shore,4.1628519444444505,6.03323361111111,Unknown,1,0,2015,2,8,20,4,2015-02
+613,2015-02-20,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,2.14333333333333,104.653333333333,Evening,1,1,2015,2,8,20,4,2015-02
+612,2015-02-21,Americas,Colombia,Other maritime risk,Tanker,0,Anchorage,10.312648611111099,-74.48845222222221,Unknown,1,1,2015,2,8,21,5,2015-02
+611,2015-02-21,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.17,103.43666666666701,Night,1,0,2015,2,8,21,5,2015-02
+610,2015-02-21,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,13.05,43.1,Morning,1,0,2015,2,8,21,5,2015-02
+609,2015-02-23,West Africa,Nigeria,Armed robbery at sea,Product tanker,0,Off shore,4.25,7.93333333333333,Night,1,1,2015,2,9,23,0,2015-02
+603,2015-02-25,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,13.05,43.1,Afternoon,1,0,2015,2,9,25,2,2015-02
+604,2015-02-25,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.07333333333333,103.60666666666701,Morning,1,1,2015,2,9,25,2,2015-02
+608,2015-02-25,South East Asia,Singapore,Theft at sea,Container ship,0,Off shore,1.0816666666666699,103.558333333333,Unknown,1,1,2015,2,9,25,2,2015-02
+606,2015-02-25,South East Asia,Singapore,"Failed attack, robbery",Container ship,0,Off shore,1.0815,103.575,Night,1,0,2015,2,9,25,2,2015-02
+607,2015-02-25,South East Asia,Vietnam,Armed robbery at anchorage,Bulk carrier,0,Anchorage,20.696666666666697,107.28333333333299,Night,1,1,2015,2,9,25,2,2015-02
+605,2015-02-25,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.13333333333333,103.46666666666701,Night,1,0,2015,2,9,25,2,2015-02
+602,2015-02-26,West Africa,Nigeria,Other maritime risk,Tanker,0,Unknown,6.3883072222222195,3.40139,Unknown,1,1,2015,2,9,26,3,2015-02
+601,2015-03-01,East Africa,Somalia,Suspicious activity at sea,Merchant vessel,0,Berth,12.411666666666699,47.865,Unknown,1,0,2015,3,9,1,6,2015-03
+600,2015-03-03,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Berth,5.58333333333333,5.41666666666667,Morning,1,1,2015,3,10,3,1,2015-03
+599,2015-03-03,West Africa,Nigeria,"Failed attack, robbery",Other,0,Berth,6.44497277777778,3.38382111111111,Night,1,0,2015,3,10,3,1,2015-03
+598,2015-03-05,South East Asia,Indonesia,Anti-piracy/naval operation,Merchant vessel,0,Unknown,1.13333333333333,103.916666666667,Unknown,1,0,2015,3,10,5,3,2015-03
+597,2015-03-05,West Africa,Nigeria,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,4.15,7.91666666666667,Evening,1,1,2015,3,10,5,3,2015-03
+596,2015-03-07,South East Asia,Philippines,"Failed attack, robbery",Bulk carrier,0,Off shore,6.2185,119.836333333333,Morning,1,0,2015,3,10,7,5,2015-03
+595,2015-03-09,South East Asia,Indonesia,Hijacking at sea,Product tanker,0,Off shore,1.71666666666667,105.833333333333,Night,1,1,2015,3,11,9,0,2015-03
+594,2015-03-10,Eastern Mediterranean,Ukraine,Other maritime risk,General cargo vessel,0,Unknown,44.6235380555556,33.5199738888889,Unknown,1,1,2015,3,11,10,1,2015-03
+593,2015-03-10,West Africa,Ghana,Suspicious activity at sea,Fishing vessel,0,Off shore,4.06666666666667,-0.633333333333333,Afternoon,1,0,2015,3,11,10,1,2015-03
+592,2015-03-10,East Africa,Somalia,Suspicious activity at sea,Merchant vessel,0,Off shore,13.4,50.0333333333333,Afternoon,1,0,2015,3,11,10,1,2015-03
+591,2015-03-11,South East Asia,Vietnam,Armed robbery at anchorage,Bulk carrier,0,Anchorage,10.25,107.03333333333299,Morning,1,1,2015,3,11,11,2,2015-03
+590,2015-03-12,West Africa,Nigeria,Theft at anchorage,Product tanker,0,Anchorage,6.452208888888889,3.37269555555556,Evening,1,1,2015,3,11,12,3,2015-03
+589,2015-03-14,West Africa,Congo,Theft at anchorage,Other,0,Anchorage,-3.25,11.8,Night,1,1,2015,3,11,14,5,2015-03
+588,2015-03-15,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,6.1399574999999995,3.40644833333333,Unknown,1,0,2015,3,11,15,6,2015-03
+587,2015-03-15,South East Asia,Singapore,"Failed attack, robbery",Product tanker,0,Off shore,1.07483333333333,103.578833333333,Night,1,0,2015,3,11,15,6,2015-03
+586,2015-03-16,South Asia,India,Theft at anchorage,Product tanker,0,Anchorage,17.6383333333333,83.42,Evening,1,1,2015,3,12,16,0,2015-03
+585,2015-03-18,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.26,104.15,Night,1,0,2015,3,12,18,2,2015-03
+584,2015-03-19,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,4.18333333333333,8.0,Night,1,1,2015,3,12,19,3,2015-03
+583,2015-03-19,South East Asia,Singapore,Armed robbery at sea,Bulk carrier,0,Off shore,1.27833333333333,104.276666666667,Night,1,1,2015,3,12,19,3,2015-03
+582,2015-03-20,South East Asia,Philippines,"Failed attack, robbery",Bulk carrier,0,Off shore,6.0,119.21666666666701,Morning,1,0,2015,3,12,20,4,2015-03
+581,2015-03-20,South East Asia,Indonesia,"Failed attack, robbery",Chemical tanker,0,Anchorage,1.7,101.483333333333,Evening,1,0,2015,3,12,20,4,2015-03
+580,2015-03-21,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.22666666666667,103.971666666667,Night,1,0,2015,3,12,21,5,2015-03
+578,2015-03-21,South East Asia,Indonesia,Armed robbery at sea,Container ship,0,Off shore,1.11666666666667,103.566666666667,Night,1,1,2015,3,12,21,5,2015-03
+577,2015-03-21,South Asia,Bangladesh,Armed robbery at anchorage,Tug,0,Anchorage,22.1,91.7333333333333,Morning,1,1,2015,3,12,21,5,2015-03
+576,2015-03-21,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,4.06666666666667,7.5,Evening,1,1,2015,3,12,21,5,2015-03
+579,2015-03-21,South East Asia,Indonesia,Armed robbery at anchorage,Bulk carrier,0,Anchorage,3.93333333333333,98.75,Night,1,1,2015,3,12,21,5,2015-03
+575,2015-03-22,East Africa,Yemen,Suspicious activity at sea,General cargo vessel,0,Off shore,14.416666666666698,42.5833333333333,Night,1,0,2015,3,12,22,6,2015-03
+574,2015-03-22,South East Asia,Malaysia,Hijacking at sea,Tug,0,Off shore,2.84333333333333,104.511666666667,Evening,1,1,2015,3,12,22,6,2015-03
+573,2015-03-23,South East Asia,Philippines,Theft at anchorage,Other,0,Anchorage,20.716666666666697,107.183333333333,Night,1,1,2015,3,13,23,0,2015-03
+572,2015-03-23,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Off shore,1.1683333333333301,103.473333333333,Morning,1,0,2015,3,13,23,0,2015-03
+571,2015-03-23,South Asia,Bangladesh,Theft at anchorage,Container ship,0,Anchorage,22.2896780555556,91.6929247222222,Morning,1,1,2015,3,13,23,0,2015-03
+569,2015-03-24,East Africa,Somalia,Hijacking at sea,Fishing vessel,0,Off shore,8.720498888888889,50.497970555555604,Unknown,1,1,2015,3,13,24,1,2015-03
+570,2015-03-24,East Africa,Somalia,Hijacking at sea,Fishing vessel,0,Off shore,8.82306027777778,50.4890441666667,Unknown,1,1,2015,3,13,24,1,2015-03
+567,2015-03-25,South East Asia,Thailand,Armed robbery at berth,Bulk carrier,0,Berth,13.517195000000001,100.64025888888901,Evening,1,1,2015,3,13,25,2,2015-03
+568,2015-03-25,West Africa,Cote D'Ivoire,"Failed attack, robbery",General cargo vessel,0,Berth,5.289609444444441,-3.98454,Night,1,0,2015,3,13,25,2,2015-03
+566,2015-03-25,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Off shore,4.23333333333333,7.98333333333333,Evening,1,0,2015,3,13,25,2,2015-03
+565,2015-03-26,West Africa,Nigeria,Notice,Unknown vessel type,0,Unknown,6.43576444444444,3.3757325,Unknown,1,0,2015,3,13,26,3,2015-03
+563,2015-03-26,West Africa,Nigeria,"Failed attack, kidnap/ransom",Tug,0,Off shore,4.23333333333333,7.98333333333333,Evening,1,0,2015,3,13,26,3,2015-03
+564,2015-03-26,South East Asia,Malaysia,Suspicious activity at sea,Product tanker,0,Off shore,2.96666666666667,104.71666666666701,Afternoon,1,0,2015,3,13,26,3,2015-03
+562,2015-03-27,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,6.075,4.875,Unknown,1,0,2015,3,13,27,4,2015-03
+561,2015-03-29,South East Asia,Singapore,Theft at sea,Tanker,0,Off shore,1.08333333333333,103.583333333333,Night,1,1,2015,3,13,29,6,2015-03
+560,2015-03-29,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.16683333333333,103.444166666667,Night,1,0,2015,3,13,29,6,2015-03
+555,2015-03-30,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.4518333333333302,104.663833333333,Morning,1,1,2015,3,14,30,0,2015-03
+557,2015-03-30,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.0875,103.567166666667,Night,1,0,2015,3,14,30,0,2015-03
+558,2015-03-30,South East Asia,Malaysia,"Failed attack, robbery",Product tanker,0,Off shore,1.0805,103.578833333333,Night,1,0,2015,3,14,30,0,2015-03
+559,2015-03-30,South Asia,India,"Failed attack, robbery",Other,0,Anchorage,16.983333333333302,82.3,Night,1,0,2015,3,14,30,0,2015-03
+556,2015-03-30,South East Asia,Malaysia,"Failed attack, robbery",Tanker,0,Off shore,1.05383333333333,103.647166666667,Morning,1,0,2015,3,14,30,0,2015-03
+552,2015-04-01,South East Asia,Singapore,Theft at sea,Container ship,0,Off shore,1.01883333333333,103.60916666666701,Night,1,1,2015,4,14,1,2,2015-04
+554,2015-04-01,Eastern Mediterranean,Yemen,Anti-piracy/naval operation,Bulk carrier,0,Off shore,14.4672055555556,42.6060105555556,Unknown,1,0,2015,4,14,1,2,2015-04
+553,2015-04-01,West Africa,Nigeria,"Failed attack, robbery",Container ship,0,Off shore,9.5,-12.3,Night,1,0,2015,4,14,1,2,2015-04
+551,2015-04-01,South East Asia,Indonesia,Hijacking at sea,Product tanker,0,Off shore,2.15833333333333,107.538666666667,Evening,1,1,2015,4,14,1,2,2015-04
+549,2015-04-02,South East Asia,Singapore,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.05388333333333,103.647216666667,Night,1,0,2015,4,14,2,3,2015-04
+550,2015-04-02,Eastern Mediterranean,Yemen,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,15.0266666666667,42.39,Evening,1,0,2015,4,14,2,3,2015-04
+548,2015-04-03,Eastern Mediterranean,Yemen,Anti-piracy/naval operation,Merchant vessel,0,Unknown,15.961666666666698,41.5683333333333,Night,1,0,2015,4,14,3,4,2015-04
+547,2015-04-03,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.123333333333301,107.098333333333,Morning,1,1,2015,4,14,3,4,2015-04
+546,2015-04-03,South East Asia,Malaysia,Theft at berth,General cargo vessel,0,Berth,5.8134897222222195,118.08294305555599,Afternoon,1,1,2015,4,14,3,4,2015-04
+545,2015-04-05,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.2671666666667,107.007166666667,Evening,1,1,2015,4,14,5,6,2015-04
+544,2015-04-08,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,21.709056388888897,89.3308641666667,Night,1,1,2015,4,15,8,2,2015-04
+543,2015-04-09,West Africa,Nigeria,"Failed attack, robbery",Tanker,0,Off shore,6.29,3.38833333333333,Night,1,0,2015,4,15,9,3,2015-04
+542,2015-04-10,West Africa,Nigeria,Kidnap/ransom at sea,Passenger vessel,0,Off shore,4.41666666666667,6.26666666666667,Unknown,1,1,2015,4,15,10,4,2015-04
+541,2015-04-11,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.4166666666666698,104.616666666667,Night,1,0,2015,4,15,11,5,2015-04
+540,2015-04-12,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,22.1570288888889,90.9972666666667,Unknown,1,1,2015,4,15,12,6,2015-04
+539,2015-04-12,South East Asia,Malaysia,Suspicious activity at sea,Product tanker,0,Off shore,1.33333333333333,104.35,Morning,1,0,2015,4,15,12,6,2015-04
+538,2015-04-13,West Africa,Nigeria,"Failed attack, kidnap/ransom",Other,0,Off shore,6.0,5.45,Morning,1,0,2015,4,16,13,0,2015-04
+537,2015-04-15,South East Asia,Malaysia,Theft at sea,Other,0,Off shore,1.21,103.55,Afternoon,1,1,2015,4,16,15,2,2015-04
+536,2015-04-16,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.05,103.666666666667,Night,1,1,2015,4,16,16,3,2015-04
+535,2015-04-17,South Asia,India,Armed robbery at sea,Fishing vessel,0,Off shore,10.2366361111111,79.9454955555556,Evening,1,1,2015,4,16,17,4,2015-04
+534,2015-04-17,North Africa,Libya,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,33.0330744444444,14.5968013888889,Unknown,1,0,2015,4,16,17,4,2015-04
+533,2015-04-18,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.13790027777778,103.778637222222,Night,1,0,2015,4,16,18,5,2015-04
+532,2015-04-18,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.126,103.758666666667,Night,1,0,2015,4,16,18,5,2015-04
+531,2015-04-19,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.6585963888889,89.5186619444444,Unknown,1,1,2015,4,16,19,6,2015-04
+530,2015-04-20,South East Asia,Indonesia,"Failed attack, robbery",Tanker,0,Off shore,1.06666666666667,103.666666666667,Night,1,0,2015,4,17,20,0,2015-04
+529,2015-04-20,South East Asia,Malaysia,Armed robbery at sea,Bulk carrier,0,Off shore,3.6,104.3,Evening,1,1,2015,4,17,20,0,2015-04
+528,2015-04-21,West Africa,Nigeria,Suspicious activity at sea,Unknown vessel type,0,Off shore,2.4,5.41666666666667,Morning,1,0,2015,4,17,21,1,2015-04
+527,2015-04-21,South East Asia,Malaysia,"Failed attack, robbery",Tanker,0,Off shore,2.46666666666667,104.433333333333,Morning,1,0,2015,4,17,21,1,2015-04
+526,2015-04-22,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.25,104.166666666667,Night,1,0,2015,4,17,22,2,2015-04
+525,2015-04-23,South East Asia,Malaysia,Armed robbery at sea,Chemical tanker,0,Off shore,1.28083333333333,104.18966666666701,Night,1,1,2015,4,17,23,3,2015-04
+520,2015-04-24,Eastern Mediterranean,Iran,Counter insurgency/military operation,Container ship,1,Off shore,25.7,55.2666666666667,Morning,1,1,2015,4,17,24,4,2015-04
+519,2015-04-24,West Africa,Nigeria,Suspicious activity at sea,Unknown vessel type,0,Off shore,4.33333333333333,7.98333333333333,Evening,1,0,2015,4,17,24,4,2015-04
+521,2015-04-24,West Africa,Nigeria,"Failed attack, kidnap/ransom",Other,0,Off shore,4.21916666666667,7.39216666666667,Night,1,0,2015,4,17,24,4,2015-04
+522,2015-04-24,West Africa,Guinea,"Failed attack, robbery",Bulk carrier,0,Anchorage,9.41666666666667,-12.283333333333301,Night,1,0,2015,4,17,24,4,2015-04
+524,2015-04-24,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Anchorage,1.6954616666666698,101.463700277778,Unknown,1,0,2015,4,17,24,4,2015-04
+523,2015-04-24,South Asia,Bangladesh,Armed robbery at anchorage,Product tanker,0,Anchorage,22.1166666666667,91.7833333333333,Night,1,1,2015,4,17,24,4,2015-04
+518,2015-04-25,South Asia,Bangladesh,Armed robbery at anchorage,Bulk carrier,0,Anchorage,22.1,91.75,Night,1,1,2015,4,17,25,5,2015-04
+517,2015-04-25,South East Asia,Malaysia,Theft at sea,Bulk carrier,0,Off shore,1.33333333333333,104.4,Night,1,1,2015,4,17,25,5,2015-04
+516,2015-04-25,West Africa,Nigeria,Suspicious activity at sea,Tug,0,Off shore,3.3,5.13383333333333,Evening,1,0,2015,4,17,25,5,2015-04
+515,2015-04-25,South Asia,Bangladesh,Armed robbery at anchorage,Container ship,0,Anchorage,22.1833333333333,91.7166666666667,Evening,1,1,2015,4,17,25,5,2015-04
+514,2015-04-26,South East Asia,Indonesia,Anti-piracy/naval operation,Product tanker,0,Berth,0.0223847222222222,104.89196777777799,Unknown,1,0,2015,4,17,26,6,2015-04
+513,2015-04-26,South East Asia,Malaysia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.25,104.116666666667,Night,1,0,2015,4,17,26,6,2015-04
+512,2015-04-26,South East Asia,Malaysia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.2635,104.171333333333,Night,1,0,2015,4,17,26,6,2015-04
+511,2015-04-27,South East Asia,Singapore,"Failed attack, robbery",Container ship,0,Off shore,1.15664444444444,103.480224722222,Night,1,0,2015,4,18,27,0,2015-04
+510,2015-04-28,Eastern Mediterranean,Iran,Counter insurgency/military operation,Container ship,1,Off shore,26.65,56.241666666666696,Afternoon,1,1,2015,4,18,28,1,2015-04
+509,2015-04-28,West Africa,Nigeria,Suspicious activity at sea,Unknown vessel type,0,Off shore,4.724565,8.355617500000001,Evening,1,0,2015,4,18,28,1,2015-04
+508,2015-04-29,West Africa,Nigeria,Kidnap/ransom at anchorage,Unknown vessel type,0,Anchorage,4.98838472222222,8.295428888888889,Evening,1,1,2015,4,18,29,2,2015-04
+507,2015-05-01,South East Asia,Philippines,Theft at anchorage,Container ship,0,Anchorage,14.595,120.84166666666701,Night,1,1,2015,5,18,1,4,2015-05
+506,2015-05-01,South East Asia,Indonesia,"Failed attack, robbery",Tanker,0,Anchorage,1.71666666666667,101.4,Night,1,0,2015,5,18,1,4,2015-05
+505,2015-05-02,South East Asia,Indonesia,Suspicious activity at sea,Tug,0,Off shore,1.26622833333333,104.60314749999999,Unknown,1,0,2015,5,18,2,5,2015-05
+504,2015-05-02,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,2.32166666666667,101.67333333333299,Evening,1,1,2015,5,18,2,5,2015-05
+503,2015-05-03,South East Asia,Indonesia,Armed robbery at berth,Bulk carrier,0,Berth,3.78333333333333,98.7,Afternoon,1,1,2015,5,18,3,6,2015-05
+502,2015-05-04,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.09,103.726666666667,Night,1,1,2015,5,19,4,0,2015-05
+501,2015-05-05,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.05,103.616666666667,Evening,1,0,2015,5,19,5,1,2015-05
+500,2015-05-05,South Asia,Bangladesh,Armed robbery at anchorage,Crude oil tanker,0,Anchorage,21.801666666666698,91.7,Evening,1,1,2015,5,19,5,1,2015-05
+499,2015-05-06,South East Asia,Singapore,Theft at anchorage,General cargo vessel,0,Anchorage,1.28333333333333,104.016666666667,Afternoon,1,1,2015,5,19,6,2,2015-05
+498,2015-05-07,West Africa,Congo,Armed robbery at anchorage,General cargo vessel,0,Anchorage,-4.135,13.413333333333302,Morning,1,1,2015,5,19,7,3,2015-05
+497,2015-05-08,South East Asia,Singapore,Theft at sea,Gas tanker,0,Off shore,1.04433333333333,103.6505,Night,1,1,2015,5,19,8,4,2015-05
+496,2015-05-09,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.16666666666667,103.833333333333,Night,1,0,2015,5,19,9,5,2015-05
+495,2015-05-09,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.088,103.713,Night,1,1,2015,5,19,9,5,2015-05
+493,2015-05-10,North Africa,Libya,Other maritime risk,General cargo vessel,0,Unknown,32.847288611111104,22.6593016666667,Evening,1,1,2015,5,19,10,6,2015-05
+494,2015-05-10,South East Asia,Indonesia,"Failed attack, robbery",Chemical tanker,0,Off shore,1.7,101.46666666666701,Night,1,0,2015,5,19,10,6,2015-05
+492,2015-05-11,West Africa,Nigeria,Armed robbery at sea,Supply vessel,0,Off shore,4.3,7.86666666666667,Night,1,1,2015,5,20,11,0,2015-05
+491,2015-05-11,South East Asia,Vietnam,Theft at sea,Bulk carrier,0,Off shore,10.2131666666667,107.075666666667,Afternoon,1,1,2015,5,20,11,0,2015-05
+490,2015-05-13,East Africa,Somalia,Kidnap/ransom at sea,Fishing vessel,0,Off shore,3.7120352777777796,47.3696136111111,Unknown,1,1,2015,5,20,13,2,2015-05
+489,2015-05-13,South East Asia,Singapore,Theft at sea,Container ship,0,Off shore,1.1275594444444401,103.675666944444,Night,1,1,2015,5,20,13,2,2015-05
+488,2015-05-14,West Africa,Nigeria,Kidnap/ransom at sea,Tug,0,Off shore,4.0291666666666694,7.09233333333333,Night,1,1,2015,5,20,14,3,2015-05
+487,2015-05-14,Eastern Mediterranean,Iran,Counter insurgency/military operation,Product tanker,0,Off shore,25.602043888888897,55.038328333333304,Afternoon,1,1,2015,5,20,14,3,2015-05
+486,2015-05-14,South East Asia,Malaysia,Kidnap/ransom at berth,Unknown vessel type,0,Berth,5.86335055555555,118.113006666667,Evening,1,1,2015,5,20,14,3,2015-05
+481,2015-05-15,South East Asia,Indonesia,Suspicious activity at sea,Tug,0,Off shore,1.25416666666667,104.046833333333,Evening,1,0,2015,5,20,15,4,2015-05
+482,2015-05-15,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.60731027777778,8.471145555555559,Morning,1,1,2015,5,20,15,4,2015-05
+485,2015-05-15,South Asia,India,Theft at berth,Product tanker,0,Berth,22.996491944444397,70.2318419444444,Night,1,1,2015,5,20,15,4,2015-05
+484,2015-05-15,West Africa,Guinea,Armed robbery at anchorage,Bulk carrier,0,Anchorage,9.41666666666667,-12.266666666666698,Night,1,1,2015,5,20,15,4,2015-05
+483,2015-05-15,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,3.575,110.651333333333,Morning,1,1,2015,5,20,15,4,2015-05
+480,2015-05-16,South East Asia,Singapore,"Failed attack, robbery",Tug,0,Off shore,1.25416666666667,104.046833333333,Morning,1,0,2015,5,20,16,5,2015-05
+479,2015-05-16,South Asia,Bangladesh,Theft at anchorage,Bulk carrier,0,Anchorage,21.766666666666698,91.7,Night,1,1,2015,5,20,16,5,2015-05
+478,2015-05-16,South East Asia,Vietnam,Theft at sea,Other,0,Off shore,8.321666666666669,108.863333333333,Night,1,1,2015,5,20,16,5,2015-05
+477,2015-05-16,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.1833333333333,107.05,Evening,1,1,2015,5,20,16,5,2015-05
+475,2015-05-17,South Asia,Bangladesh,"Failed attack, robbery",General cargo vessel,0,Anchorage,22.2,91.7166666666667,Night,1,0,2015,5,20,17,6,2015-05
+476,2015-05-17,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.08358694444444,103.699516111111,Unknown,1,0,2015,5,20,17,6,2015-05
+474,2015-05-18,South East Asia,Indonesia,Theft at sea,Tanker,0,Off shore,1.08333333333333,103.6,Morning,1,1,2015,5,21,18,0,2015-05
+473,2015-05-18,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,4.3,7.86666666666667,Evening,1,1,2015,5,21,18,0,2015-05
+472,2015-05-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Container ship,0,Off shore,4.0333333333333306,7.08333333333333,Night,1,0,2015,5,21,19,1,2015-05
+471,2015-05-19,South East Asia,Malaysia,Armed robbery at sea,Product tanker,0,Off shore,4.13333333333333,99.9,Morning,1,1,2015,5,21,19,1,2015-05
+470,2015-05-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Off shore,4.0,7.5,Morning,1,0,2015,5,21,19,1,2015-05
+469,2015-05-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,4.41666666666667,7.83333333333333,Morning,1,0,2015,5,21,19,1,2015-05
+468,2015-05-20,South East Asia,Philippines,Theft at anchorage,Product tanker,0,Anchorage,13.733333333333302,121.038333333333,Night,1,1,2015,5,21,20,2,2015-05
+467,2015-05-20,South East Asia,Indonesia,Theft at anchorage,Product tanker,1,Anchorage,1.70807527777778,101.41653444444401,Morning,1,1,2015,5,21,20,2,2015-05
+466,2015-05-20,West Africa,Nigeria,Kidnap/ransom at berth,Unknown vessel type,0,Berth,5.2166666666666694,6.18333333333333,Morning,1,1,2015,5,21,20,2,2015-05
+465,2015-05-22,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.0433333333333301,103.66183333333299,Night,1,0,2015,5,21,22,4,2015-05
+464,2015-05-22,West Africa,Cote D'Ivoire,"Failed attack, robbery",Merchant vessel,0,Anchorage,5.18833333333333,-2.02166666666667,Night,1,0,2015,5,21,22,4,2015-05
+463,2015-05-22,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.47527472222222,7.80261027777778,Night,1,1,2015,5,21,22,4,2015-05
+462,2015-05-22,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.1833333333333,107.05,Morning,1,1,2015,5,21,22,4,2015-05
+461,2015-05-23,South East Asia,Philippines,"Failed attack, robbery",Tanker,0,Anchorage,13.65,120.983333333333,Evening,1,0,2015,5,21,23,5,2015-05
+460,2015-05-23,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Off shore,1.04166666666667,103.65,Night,1,0,2015,5,21,23,5,2015-05
+459,2015-05-24,North Africa,Libya,Other maritime risk,Tanker,0,Berth,31.2053138888889,16.5889361111111,Unknown,1,1,2015,5,21,24,6,2015-05
+457,2015-05-26,West Africa,Nigeria,"Failed attack, robbery",Product tanker,0,Berth,6.43249944444444,3.36195666666667,Night,1,0,2015,5,22,26,1,2015-05
+707,2015-05-26,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,21.8719486111111,89.513855,Unknown,1,1,2015,5,22,26,1,2015-05
+458,2015-05-26,Americas,Trinidad And Tobago,Kidnap/ransom at sea,Unknown vessel type,0,Unknown,10.7037016666667,-60.216369444444396,Unknown,1,1,2015,5,22,26,1,2015-05
+706,2015-05-26,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.551666666666669,5.5,Evening,1,1,2015,5,22,26,1,2015-05
+456,2015-05-27,South Asia,India,Suspicious activity at sea,General cargo vessel,0,Off shore,6.305,77.1883333333333,Evening,1,0,2015,5,22,27,2,2015-05
+455,2015-05-27,South Asia,India,Theft at berth,Chemical tanker,0,Berth,22.9977683333333,70.1966541666667,Night,1,1,2015,5,22,27,2,2015-05
+454,2015-05-28,West Africa,Nigeria,Suspicious activity at sea,Merchant vessel,0,Off shore,3.71166666666667,6.37166666666667,Evening,1,0,2015,5,22,28,3,2015-05
+453,2015-05-30,Eastern Mediterranean,Yemen,Other maritime risk,General cargo vessel,0,Off shore,12.758209166666699,44.9569244444444,Unknown,1,1,2015,5,22,30,5,2015-05
+452,2015-06-01,South Asia,Bangladesh,Armed robbery at anchorage,Bulk carrier,0,Anchorage,22.259,91.7108333333333,Night,1,1,2015,6,23,1,0,2015-06
+451,2015-06-03,South East Asia,Indonesia,Hijacking at sea,Merchant vessel,0,Off shore,-0.561766111111111,106.965637222222,Evening,1,1,2015,6,23,3,2,2015-06
+450,2015-06-03,West Africa,Togo,Suspicious activity at anchor,Unknown vessel type,0,Anchorage,6.05878027777778,1.21630666666667,Morning,1,0,2015,6,23,3,2,2015-06
+449,2015-06-04,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,2.35,104.366666666667,Night,1,1,2015,6,23,4,3,2015-06
+448,2015-06-04,Americas,Colombia,Other maritime risk,Unknown vessel type,0,Unknown,3.88182,-76.92958,Morning,1,1,2015,6,23,4,3,2015-06
+447,2015-06-04,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.0833333333333,107.03333333333299,Evening,1,1,2015,6,23,4,3,2015-06
+446,2015-06-05,Americas,Colombia,Theft at anchorage,Product tanker,0,Anchorage,3.86,-76.9016666666667,Afternoon,1,1,2015,6,23,5,4,2015-06
+445,2015-06-06,South East Asia,Vietnam,Theft at anchorage,Other,0,Anchorage,10.3583333333333,107.033166666667,Afternoon,1,1,2015,6,23,6,5,2015-06
+444,2015-06-07,Americas,Panama,Theft at anchorage,General cargo vessel,0,Anchorage,9.358265277777779,-78.06846611111109,Unknown,1,1,2015,6,23,7,6,2015-06
+443,2015-06-07,Eastern Mediterranean,Ukraine,Other maritime risk,Unknown vessel type,0,Unknown,47.063558333333305,37.5892180555556,Afternoon,1,1,2015,6,23,7,6,2015-06
+439,2015-06-08,South East Asia,Singapore,Theft at sea,Chemical tanker,0,Off shore,1.19666666666667,103.418333333333,Night,1,1,2015,6,24,8,0,2015-06
+441,2015-06-08,West Africa,Congo,"Failed attack, robbery",General cargo vessel,0,Anchorage,-3.2666666666666697,11.75,Night,1,0,2015,6,24,8,0,2015-06
+440,2015-06-08,West Africa,Cameroon,Theft at berth,Bulk carrier,0,Berth,4.05266666666667,9.69,Night,1,1,2015,6,24,8,0,2015-06
+442,2015-06-08,East Africa,Mozambique,Armed robbery at berth,General cargo vessel,0,Berth,-18.1833333333333,34.8333333333333,Night,1,1,2015,6,24,8,0,2015-06
+438,2015-06-11,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,2.15027472222222,104.734725833333,Unknown,1,1,2015,6,24,11,3,2015-06
+437,2015-06-11,South Asia,Bangladesh,Theft at berth,Chemical tanker,0,Berth,22.2706666666667,91.8038333333333,Morning,1,1,2015,6,24,11,3,2015-06
+436,2015-06-12,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,6.40741916666667,2.88550194444444,Unknown,1,1,2015,6,24,12,4,2015-06
+435,2015-06-12,South East Asia,Indonesia,Armed robbery at anchorage,Other,0,Anchorage,4.0,98.9,Night,1,1,2015,6,24,12,4,2015-06
+434,2015-06-13,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,4.33333333333333,6.05,Unknown,1,1,2015,6,24,13,5,2015-06
+433,2015-06-13,South East Asia,Indonesia,Armed robbery at sea,Tug,0,Off shore,1.5833333333333302,105.0,Evening,1,1,2015,6,24,13,5,2015-06
+432,2015-06-15,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.96379777777778,8.31780916666667,Morning,1,1,2015,6,25,15,0,2015-06
+431,2015-06-15,East Africa,Oman,Suspicious activity at sea,Merchant vessel,0,Off shore,24.6,57.7833333333333,Morning,1,0,2015,6,25,15,0,2015-06
+427,2015-06-17,South East Asia,Indonesia,Armed robbery at sea,Crude oil tanker,0,Off shore,1.05133333333333,103.611333333333,Night,1,1,2015,6,25,17,2,2015-06
+428,2015-06-17,South East Asia,Malaysia,"Failed attack, robbery",Gas tanker,0,Off shore,1.08716666666667,103.0,Night,1,0,2015,6,25,17,2,2015-06
+429,2015-06-17,South East Asia,Indonesia,Armed robbery at sea,Crude oil tanker,0,Off shore,1.06666666666667,103.566666666667,Night,1,1,2015,6,25,17,2,2015-06
+430,2015-06-17,South East Asia,Malaysia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.08716666666667,103.711,Night,1,0,2015,6,25,17,2,2015-06
+426,2015-06-18,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,5.09135472222222,8.10241694444444,Unknown,1,1,2015,6,25,18,3,2015-06
+425,2015-06-18,South East Asia,Malaysia,Anti-piracy/naval operation,Product tanker,0,Off shore,1.30983333333333,104.2265,Morning,1,0,2015,6,25,18,3,2015-06
+424,2015-06-18,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.13766666666667,103.479666666667,Night,1,0,2015,6,25,18,3,2015-06
+423,2015-06-18,South East Asia,Vietnam,Anti-piracy/naval operation,Product tanker,0,Off shore,8.98583333333333,103.1935,Afternoon,1,0,2015,6,25,18,3,2015-06
+422,2015-06-19,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.14762833333333,103.64433277777799,Unknown,1,0,2015,6,25,19,4,2015-06
+421,2015-06-19,South East Asia,Vietnam,Anti-piracy/naval operation,Product tanker,0,Unknown,9.2555625,103.21655277777799,Morning,1,0,2015,6,25,19,4,2015-06
+420,2015-06-19,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Anchorage,3.9166666666666696,98.7666666666667,Night,1,0,2015,6,25,19,4,2015-06
+419,2015-06-20,South Asia,Bangladesh,Armed robbery at anchorage,Container ship,0,Anchorage,22.1666666666667,91.7,Morning,1,1,2015,6,25,20,5,2015-06
+418,2015-06-21,South East Asia,Indonesia,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,1.04693027777778,103.87968055555599,Morning,1,0,2015,6,25,21,6,2015-06
+417,2015-06-22,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,1.07073833333333,103.72398388888901,Unknown,1,1,2015,6,26,22,0,2015-06
+416,2015-06-22,South Asia,Bangladesh,Armed robbery at anchorage,Container ship,0,Anchorage,22.15,91.7333333333333,Evening,1,1,2015,6,26,22,0,2015-06
+415,2015-06-23,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.77183333333333,7.0025,Night,1,1,2015,6,26,23,1,2015-06
+414,2015-06-23,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,4.32575388888889,8.31504833333333,Afternoon,1,1,2015,6,26,23,1,2015-06
+410,2015-06-24,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.04166666666667,103.04666666666701,Night,1,1,2015,6,26,24,2,2015-06
+413,2015-06-24,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,1.04016666666667,103.6595,Unknown,1,1,2015,6,26,24,2,2015-06
+412,2015-06-24,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,1.0648799999999998,103.605194166667,Night,1,1,2015,6,26,24,2,2015-06
+411,2015-06-24,South East Asia,Indonesia,Armed robbery at berth,Bulk carrier,0,Berth,-0.3,117.666666666667,Night,1,1,2015,6,26,24,2,2015-06
+409,2015-06-26,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,1.00620444444444,103.567428611111,Unknown,1,1,2015,6,26,26,4,2015-06
+408,2015-06-26,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.1,103.733333333333,Night,1,0,2015,6,26,26,4,2015-06
+407,2015-06-26,South East Asia,Malaysia,Theft at sea,Tanker,0,Off shore,1.18833333333333,103.425,Night,1,1,2015,6,26,26,4,2015-06
+406,2015-06-26,South East Asia,Singapore,Armed robbery at sea,Container ship,0,Off shore,1.17633333333333,103.527166666667,Night,1,1,2015,6,26,26,4,2015-06
+405,2015-06-26,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.06166666666667,103.619666666667,Night,1,0,2015,6,26,26,4,2015-06
+404,2015-06-26,West Africa,Togo,"Failed attack, robbery",Container ship,0,Anchorage,6.01666666666667,1.28333333333333,Evening,1,0,2015,6,26,26,4,2015-06
+403,2015-06-27,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.58333333333333,8.4,Unknown,1,1,2015,6,26,27,5,2015-06
+402,2015-06-27,South East Asia,Philippines,Theft at anchorage,Tanker,0,Anchorage,13.733333333333302,121.03333333333299,Night,1,1,2015,6,26,27,5,2015-06
+400,2015-06-27,East Africa,Kenya,Armed robbery at berth,Tanker,0,Berth,-3.96666666666667,39.6333333333333,Evening,1,1,2015,6,26,27,5,2015-06
+401,2015-06-27,West Africa,Nigeria,"Failed attack, robbery",Passenger vessel,0,Anchorage,4.1,8.1,Night,1,0,2015,6,26,27,5,2015-06
+398,2015-06-28,South East Asia,Singapore,Armed robbery at sea,Tanker,0,Off shore,1.1,103.53333333333299,Night,1,1,2015,6,26,28,6,2015-06
+399,2015-06-28,Americas,Colombia,Armed robbery at anchorage,General cargo vessel,0,Anchorage,10.380999999999998,-74.4385,Night,1,1,2015,6,26,28,6,2015-06
+397,2015-06-29,Eastern Mediterranean,Egypt,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,31.686029722222198,34.1842344444444,Unknown,1,0,2015,6,27,29,0,2015-06
+395,2015-06-29,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.06133333333333,103.67166666666701,Night,1,0,2015,6,27,29,0,2015-06
+396,2015-06-29,South East Asia,Malaysia,Suspicious activity at sea,Bulk carrier,0,Off shore,1.4366666666666699,103.101666666667,Night,1,0,2015,6,27,29,0,2015-06
+394,2015-06-30,South East Asia,Indonesia,Armed robbery at anchorage,Product tanker,0,Anchorage,3.9166666666666696,98.7666666666667,Night,1,1,2015,6,27,30,1,2015-06
+393,2015-07-02,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,5.51683333333333,0.3845,Morning,1,1,2015,7,27,2,3,2015-07
+392,2015-07-02,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,5.58333333333333,0.266666666666667,Morning,1,1,2015,7,27,2,3,2015-07
+391,2015-07-03,West Africa,Nigeria,Armed robbery at sea,Fishing vessel,0,Off shore,4.54886361111111,8.34033972222222,Unknown,1,1,2015,7,27,3,4,2015-07
+390,2015-07-04,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Berth,3.7945758333333304,98.71595611111108,Morning,1,0,2015,7,27,4,5,2015-07
+389,2015-07-05,West Africa,Guinea,Armed robbery at anchorage,Product tanker,0,Anchorage,9.508131111111108,-12.250739166666698,Evening,1,1,2015,7,27,5,6,2015-07
+388,2015-07-05,South Asia,India,Theft at berth,Product tanker,0,Berth,17.6666666666667,83.4,Morning,1,1,2015,7,27,5,6,2015-07
+387,2015-07-09,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,4.42740333333333,6.59935,Unknown,1,1,2015,7,28,9,3,2015-07
+386,2015-07-09,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,4.2166666666666694,6.86666666666667,Morning,1,0,2015,7,28,9,3,2015-07
+385,2015-07-10,North Africa,Libya,Counter insurgency/military operation,Unknown vessel type,0,Unknown,30.5931177777778,18.4160686111111,Unknown,1,1,2015,7,28,10,4,2015-07
+384,2015-07-11,South East Asia,Vietnam,Theft at anchorage,Chemical tanker,0,Anchorage,10.1666666666667,107.083333333333,Afternoon,1,1,2015,7,28,11,5,2015-07
+383,2015-07-14,West Africa,Nigeria,Suspicious activity at anchor,Container ship,0,Anchorage,6.08333333333333,1.28333333333333,Night,1,0,2015,7,29,14,1,2015-07
+382,2015-07-15,South East Asia,China,Armed robbery at berth,Bulk carrier,0,Berth,10.763333333333302,106.71,Night,1,1,2015,7,29,15,2,2015-07
+381,2015-07-16,Eastern Mediterranean,Egypt,Counter insurgency/military operation,Unknown vessel type,0,Unknown,31.349214166666698,34.114895000000004,Unknown,1,1,2015,7,29,16,3,2015-07
+380,2015-07-16,South East Asia,Indonesia,"Failed attack, robbery",Supply vessel,0,Anchorage,0.9962725,103.999328611111,Night,1,0,2015,7,29,16,3,2015-07
+379,2015-07-16,West Africa,Nigeria,Suspicious activity at sea,Unknown vessel type,0,Off shore,4.435296111111111,8.35899388888889,Evening,1,0,2015,7,29,16,3,2015-07
+378,2015-07-16,West Africa,Nigeria,Armed robbery at sea,Unknown vessel type,0,Off shore,4.55,7.95,Evening,1,1,2015,7,29,16,3,2015-07
+377,2015-07-18,West Africa,Ghana,Theft at anchorage,Supply vessel,1,Anchorage,4.9,-0.28333333333333305,Night,1,1,2015,7,29,18,5,2015-07
+376,2015-07-19,North Africa,Libya,Other maritime risk,Unknown vessel type,0,Unknown,31.798204444444398,19.8111647222222,Unknown,1,1,2015,7,29,19,6,2015-07
+375,2015-07-20,East Africa,Kenya,"Failed attack, robbery",Product tanker,0,Berth,-3.9275058333333304,39.6661375,Night,1,0,2015,7,30,20,0,2015-07
+374,2015-07-23,South Asia,India,"Failed attack, robbery",Product tanker,0,Anchorage,22.9743794444444,70.2364794444444,Evening,1,0,2015,7,30,23,3,2015-07
+373,2015-07-24,South Asia,India,Theft at anchorage,Product tanker,0,Anchorage,22.999483611111103,70.2294158333333,Night,1,1,2015,7,30,24,4,2015-07
+372,2015-07-24,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Off shore,4.86666666666667,8.26666666666667,Morning,1,0,2015,7,30,24,4,2015-07
+371,2015-07-25,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.06333333333333,103.65666666666701,Night,1,1,2015,7,30,25,5,2015-07
+370,2015-07-26,South East Asia,Malaysia,Armed robbery at sea,Unknown vessel type,0,Off shore,4.870588611111111,99.04724111111109,Unknown,1,1,2015,7,30,26,6,2015-07
+369,2015-07-26,South East Asia,Singapore,"Failed attack, robbery",Crude oil tanker,0,Off shore,0.999064444444444,103.539962777778,Unknown,1,0,2015,7,30,26,6,2015-07
+368,2015-07-26,South East Asia,Malaysia,Armed robbery at sea,Fishing vessel,0,Off shore,4.88333333333333,98.6166666666667,Unknown,1,1,2015,7,30,26,6,2015-07
+367,2015-07-26,West Africa,Angola,Suspicious activity at sea,Unknown vessel type,0,Off shore,-6.58333333333333,1.5,Unknown,1,0,2015,7,30,26,6,2015-07
+365,2015-07-26,South East Asia,Philippines,Theft at anchorage,Product tanker,0,Anchorage,7.18333333333333,125.666666666667,Night,1,1,2015,7,30,26,6,2015-07
+366,2015-07-26,South East Asia,Indonesia,Theft at berth,Tanker,0,Berth,1.6866666666666699,101.471666666667,Night,1,1,2015,7,30,26,6,2015-07
+364,2015-07-27,South East Asia,Indonesia,Theft at sea,Product tanker,0,Off shore,1.06,103.611666666667,Night,1,1,2015,7,31,27,0,2015-07
+363,2015-07-27,West Africa,Nigeria,"Failed attack, kidnap/ransom",Unknown vessel type,0,Off shore,4.83333333333333,8.28333333333333,Morning,1,0,2015,7,31,27,0,2015-07
+362,2015-07-27,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.83333333333333,5.66666666666667,Afternoon,1,1,2015,7,31,27,0,2015-07
+361,2015-07-28,South East Asia,Singapore,Theft at sea,Tug,0,Off shore,1.24135805555556,104.164123611111,Unknown,1,1,2015,7,31,28,1,2015-07
+360,2015-07-29,South East Asia,Malaysia,Theft at sea,Supply vessel,0,Off shore,1.725,104.566666666667,Morning,1,1,2015,7,31,29,2,2015-07
+359,2015-07-30,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.07333333333333,103.661666666667,Night,1,0,2015,7,31,30,3,2015-07
+358,2015-07-31,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.1,103.733333333333,Night,1,0,2015,7,31,31,4,2015-07
+357,2015-08-01,South East Asia,Philippines,Theft at anchorage,Other,0,Anchorage,13.738333333333301,121.038333333333,Evening,1,1,2015,8,31,1,5,2015-08
+355,2015-08-02,Americas,Venezuela,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,10.4985244444444,-61.320983611111096,Unknown,1,0,2015,8,31,2,6,2015-08
+356,2015-08-02,South East Asia,Singapore,"Failed attack, robbery",Container ship,0,Off shore,1.03476416666667,103.682785,Unknown,1,0,2015,8,31,2,6,2015-08
+352,2015-08-03,South East Asia,Indonesia,Armed robbery at sea,Chemical tanker,0,Off shore,3.9383333333333304,98.7466666666667,Morning,1,1,2015,8,32,3,0,2015-08
+353,2015-08-03,South East Asia,Singapore,"Failed attack, robbery",Other,0,Off shore,1.08666666666667,103.583333333333,Night,1,0,2015,8,32,3,0,2015-08
+354,2015-08-03,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Berth,1.0525,103.618333333333,Night,1,0,2015,8,32,3,0,2015-08
+351,2015-08-05,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.718871111111111,6.7736297222222195,Unknown,1,1,2015,8,32,5,2,2015-08
+348,2015-08-06,South East Asia,Malaysia,Theft at sea,Tug,0,Off shore,1.08333333333333,103.733333333333,Evening,1,1,2015,8,32,6,3,2015-08
+349,2015-08-06,Eastern Mediterranean,Bahrain,Other maritime risk,Fishing vessel,0,Off shore,26.436065000000003,50.875671111111096,Unknown,1,1,2015,8,32,6,3,2015-08
+347,2015-08-06,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.045,103.641666666667,Evening,1,1,2015,8,32,6,3,2015-08
+350,2015-08-06,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,1.075,103.541333333333,Unknown,1,1,2015,8,32,6,3,2015-08
+346,2015-08-07,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.5,6.41666666666667,Evening,1,1,2015,8,32,7,4,2015-08
+345,2015-08-08,South East Asia,Malaysia,Hijacking at sea,Product tanker,0,Off shore,2.56666666666667,101.43666666666701,Evening,1,1,2015,8,32,8,5,2015-08
+344,2015-08-09,South East Asia,Indonesia,Armed robbery at anchorage,Bulk carrier,0,Anchorage,-2.2933333333333303,114.47,Unknown,1,1,2015,8,32,9,6,2015-08
+343,2015-08-09,South East Asia,Indonesia,Armed robbery at sea,Crude oil tanker,0,Off shore,1.08833333333333,103.615,Night,1,1,2015,8,32,9,6,2015-08
+342,2015-08-10,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.09666666666667,103.56166666666701,Morning,1,1,2015,8,33,10,0,2015-08
+341,2015-08-12,South East Asia,Indonesia,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.12333333333333,103.51833333333299,Night,1,0,2015,8,33,12,2,2015-08
+340,2015-08-12,South East Asia,Indonesia,Theft at anchorage,Product tanker,0,Off shore,4.0,98.75,Morning,1,1,2015,8,33,12,2,2015-08
+339,2015-08-13,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Off shore,1.12333333333333,103.5,Morning,1,0,2015,8,33,13,3,2015-08
+334,2015-08-15,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Off shore,1.26,104.13,Morning,1,0,2015,8,33,15,5,2015-08
+338,2015-08-15,South East Asia,Malaysia,Hijacking at sea,Fishing vessel,0,Off shore,6.3022275,99.24656361111109,Unknown,1,1,2015,8,33,15,5,2015-08
+336,2015-08-15,South East Asia,Singapore,Armed robbery at sea,Container ship,0,Off shore,1.06333333333333,103.608833333333,Night,1,1,2015,8,33,15,5,2015-08
+337,2015-08-15,West Africa,Nigeria,"Failed attack, robbery",General cargo vessel,0,Berth,6.442745277777781,3.38454888888889,Night,1,0,2015,8,33,15,5,2015-08
+335,2015-08-15,South East Asia,Vietnam,Theft at anchorage,Bulk carrier,0,Anchorage,10.24,107.06,Night,1,1,2015,8,33,15,5,2015-08
+333,2015-08-16,Americas,Venezuela,Theft at anchorage,General cargo vessel,0,Anchorage,10.2733333333333,-63.435,Morning,1,1,2015,8,33,16,6,2015-08
+332,2015-08-17,West Africa,Nigeria,"Failed attack, robbery",Supply vessel,0,Berth,4.68333333333333,7.16666666666667,Night,1,0,2015,8,34,17,0,2015-08
+328,2015-08-18,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,12.6333333333333,43.35,Afternoon,1,0,2015,8,34,18,1,2015-08
+331,2015-08-18,South East Asia,China,Armed robbery at sea,Fishing vessel,0,Off shore,15.983662222222199,111.852035277778,Unknown,1,1,2015,8,34,18,1,2015-08
+330,2015-08-18,Eastern Mediterranean,Yemen,Counter insurgency/military operation,Unknown vessel type,0,Berth,14.843959444444401,42.93143027777779,Unknown,1,1,2015,8,34,18,1,2015-08
+329,2015-08-18,West Africa,Congo,"Failed attack, robbery",Bulk carrier,0,Anchorage,-4.12333333333333,13.028333333333302,Night,1,0,2015,8,34,18,1,2015-08
+327,2015-08-20,East Africa,Somalia,Other maritime risk,Unknown vessel type,0,Off shore,13.3,58.9666666666667,Night,1,1,2015,8,34,20,3,2015-08
+326,2015-08-20,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.06666666666667,103.6,Night,1,1,2015,8,34,20,3,2015-08
+325,2015-08-20,South East Asia,Philippines,"Failed attack, robbery",Product tanker,0,Berth,7.17642166666667,125.656179722222,Morning,1,0,2015,8,34,20,3,2015-08
+323,2015-08-21,South East Asia,Singapore,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.17666666666667,103.445,Night,1,0,2015,8,34,21,4,2015-08
+322,2015-08-21,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.12,103.496666666667,Night,1,0,2015,8,34,21,4,2015-08
+321,2015-08-21,South East Asia,Indonesia,Theft at sea,Container ship,0,Off shore,1.16666666666667,103.483333333333,Night,1,1,2015,8,34,21,4,2015-08
+320,2015-08-21,South East Asia,Indonesia,"Failed attack, robbery",Container ship,1,Off shore,1.168,103.502833333333,Night,1,0,2015,8,34,21,4,2015-08
+319,2015-08-21,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Off shore,1.1,103.733333333333,Evening,1,0,2015,8,34,21,4,2015-08
+318,2015-08-21,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.06783333333333,103.693,Evening,1,0,2015,8,34,21,4,2015-08
+324,2015-08-21,Americas,Colombia,Theft at anchorage,Chemical tanker,0,Anchorage,3.82966666666667,-76.84666666666669,Night,1,1,2015,8,34,21,4,2015-08
+317,2015-08-22,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Off shore,1.12116666666667,103.52799999999999,Night,1,0,2015,8,34,22,5,2015-08
+316,2015-08-22,South East Asia,Singapore,Armed robbery at sea,Product tanker,0,Off shore,1.17333333333333,103.83,Night,1,1,2015,8,34,22,5,2015-08
+315,2015-08-23,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.9787802777778,89.5241691666667,Unknown,1,1,2015,8,34,23,6,2015-08
+314,2015-08-24,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Anchorage,3.3861666666666697,99.4583333333333,Night,1,0,2015,8,35,24,0,2015-08
+313,2015-08-24,South East Asia,Indonesia,Theft at berth,Product tanker,1,Berth,3.38333333333333,99.45,Unknown,1,1,2015,8,35,24,0,2015-08
+312,2015-08-24,South Asia,Bangladesh,Armed robbery at sea,Fishing vessel,0,Off shore,21.598704444444397,91.14257805555559,Evening,1,1,2015,8,35,24,0,2015-08
+311,2015-08-25,South East Asia,Singapore,"Failed attack, robbery",Tanker,0,Off shore,1.05169888888889,103.666305555556,Unknown,1,0,2015,8,35,25,1,2015-08
+310,2015-08-25,South Asia,Bangladesh,"Failed attack, robbery",Unknown vessel type,0,Off shore,21.904225555555602,89.0733791666667,Unknown,1,0,2015,8,35,25,1,2015-08
+309,2015-08-25,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.8895722222222,89.3645166666667,Morning,1,1,2015,8,35,25,1,2015-08
+308,2015-08-26,West Africa,Nigeria,Kidnap/ransom at sea,Passenger vessel,0,Off shore,4.5,6.25,Afternoon,1,1,2015,8,35,26,2,2015-08
+307,2015-08-28,Americas,Colombia,Theft at anchorage,Chemical tanker,0,Anchorage,3.83633333333333,-76.84666666666669,Night,1,1,2015,8,35,28,4,2015-08
+306,2015-08-28,West Africa,Nigeria,"Failed attack, robbery",Passenger vessel,0,Off shore,4.56068222222222,6.965331944444441,Morning,1,0,2015,8,35,28,4,2015-08
+305,2015-08-29,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.17133333333333,103.454166666667,Night,1,1,2015,8,35,29,5,2015-08
+304,2015-08-29,East Africa,Somalia,Suspicious activity at sea,Merchant vessel,0,Off shore,12.066666666666698,44.7666666666667,Afternoon,1,0,2015,8,35,29,5,2015-08
+303,2015-09-01,South East Asia,Malaysia,Armed robbery at sea,Fishing vessel,0,Off shore,6.248616111111111,118.14491277777799,Evening,1,1,2015,9,36,1,1,2015-09
+302,2015-09-01,South East Asia,Singapore,Suspicious activity at sea,Tug,0,Off shore,1.11787944444444,103.703430277778,Unknown,1,0,2015,9,36,1,1,2015-09
+301,2015-09-04,West Africa,Nigeria,Other maritime risk,Other,0,Unknown,4.13632555555556,5.8309936111111105,Afternoon,1,1,2015,9,36,4,4,2015-09
+300,2015-09-04,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.145,103.48166666666701,Evening,1,1,2015,9,36,4,4,2015-09
+299,2015-09-05,South East Asia,Singapore,"Failed attack, robbery",Bulk carrier,0,Off shore,1.16,103.476666666667,Unknown,1,0,2015,9,36,5,5,2015-09
+298,2015-09-06,South East Asia,Singapore,Theft at anchorage,Crude oil tanker,0,Anchorage,1.275,103.99,Morning,1,1,2015,9,36,6,6,2015-09
+297,2015-09-06,West Africa,Congo,Armed robbery at anchorage,Bulk carrier,0,Off shore,-5.99933333333333,12.6928333333333,Evening,1,1,2015,9,36,6,6,2015-09
+296,2015-09-08,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.18333333333333,103.416666666667,Night,1,0,2015,9,37,8,1,2015-09
+294,2015-09-09,South East Asia,Indonesia,Armed robbery at sea,Container ship,0,Off shore,1.11666666666667,103.516666666667,Night,1,1,2015,9,37,9,2,2015-09
+293,2015-09-09,South East Asia,Singapore,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.09866666666667,103.572,Morning,1,0,2015,9,37,9,2,2015-09
+295,2015-09-09,South East Asia,Indonesia,"Failed attack, robbery",Tanker,0,Off shore,1.13866666666667,103.571166666667,Night,1,0,2015,9,37,9,2,2015-09
+289,2015-09-12,South East Asia,Vietnam,Anti-piracy/naval operation,Fishing vessel,0,Off shore,7.4508683333333305,103.260726944444,Afternoon,1,0,2015,9,37,12,5,2015-09
+292,2015-09-12,South East Asia,Indonesia,Armed robbery at berth,Tug,0,Berth,1.069,103.903833333333,Unknown,1,1,2015,9,37,12,5,2015-09
+291,2015-09-12,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.1740588888888899,103.422042777778,Night,1,0,2015,9,37,12,5,2015-09
+290,2015-09-12,South East Asia,Vietnam,Theft at anchorage,General cargo vessel,0,Anchorage,10.250166666666699,107.0585,Night,1,1,2015,9,37,12,5,2015-09
+288,2015-09-16,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.1,103.516666666667,Night,1,1,2015,9,38,16,2,2015-09
+287,2015-09-16,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.12048833333333,103.49020388888901,Night,1,1,2015,9,38,16,2,2015-09
+286,2015-09-16,South East Asia,Vietnam,Theft at anchorage,Bulk carrier,0,Anchorage,10.2333333333333,107.03333333333299,Morning,1,1,2015,9,38,16,2,2015-09
+285,2015-09-17,South East Asia,Indonesia,Theft at sea,Tug,0,Off shore,1.20931527777778,104.0705025,Unknown,1,1,2015,9,38,17,3,2015-09
+284,2015-09-17,North Africa,Libya,Other maritime risk,Product tanker,0,Unknown,32.3463172222222,15.252674166666699,Unknown,1,1,2015,9,38,17,3,2015-09
+283,2015-09-17,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Unknown,1.23166666666667,1.8466666666666698,Afternoon,1,1,2015,9,38,17,3,2015-09
+282,2015-09-17,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Unknown,1.30666666666667,1.874,Afternoon,1,1,2015,9,38,17,3,2015-09
+281,2015-09-18,South Asia,Bangladesh,Armed robbery at sea,Fishing vessel,0,Off shore,21.7845925,91.8824677777778,Unknown,1,1,2015,9,38,18,4,2015-09
+280,2015-09-18,East Africa,Kenya,Other maritime risk,Other,0,Berth,-3.922015,39.6830519444444,Unknown,1,1,2015,9,38,18,4,2015-09
+279,2015-09-18,West Africa,South Africa,"Failed attack, robbery",Product tanker,0,Off shore,-32.1,18.4333333333333,Night,1,0,2015,9,38,18,4,2015-09
+278,2015-09-18,South East Asia,Philippines,Theft at berth,Product tanker,0,Berth,13.674333333333301,121.051666666667,Morning,1,1,2015,9,38,18,4,2015-09
+277,2015-09-19,South East Asia,Indonesia,Armed robbery at anchorage,Crude oil tanker,0,Anchorage,1.121,103.557166666667,Night,1,1,2015,9,38,19,5,2015-09
+276,2015-09-20,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.185,103.416666666667,Night,1,1,2015,9,38,20,6,2015-09
+275,2015-09-20,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.06666666666667,103.683333333333,Evening,1,0,2015,9,38,20,6,2015-09
+274,2015-09-21,South East Asia,Philippines,Kidnap/ransom at berth,Unknown vessel type,0,Berth,7.1974888888888895,125.70982861111099,Unknown,1,1,2015,9,39,21,0,2015-09
+273,2015-09-24,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,6.5243791666666695,3.37920583333333,Unknown,1,1,2015,9,39,24,3,2015-09
+272,2015-09-25,South East Asia,Indonesia,Theft at anchorage,Product tanker,1,Anchorage,3.935,98.76,Morning,1,1,2015,9,39,25,4,2015-09
+271,2015-09-28,Americas,Trinidad And Tobago,Armed robbery at sea,Fishing vessel,0,Off shore,11.0006663888889,-60.3598613888889,Morning,1,1,2015,9,40,28,0,2015-09
+270,2015-09-29,South East Asia,Vietnam,Armed robbery at sea,Fishing vessel,0,Off shore,16.44952,111.695938055556,Morning,1,1,2015,9,40,29,1,2015-09
+269,2015-09-29,South East Asia,Indonesia,Armed robbery at anchorage,Product tanker,0,Anchorage,1.7016666666666698,101.508833333333,Night,1,1,2015,9,40,29,1,2015-09
+268,2015-09-30,South East Asia,Vietnam,Armed robbery at berth,Container ship,0,Berth,10.7683333333333,106.735,Night,1,1,2015,9,40,30,2,2015-09
+267,2015-09-30,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,3.70883333333333,4.72533333333333,Afternoon,1,1,2015,9,40,30,2,2015-09
+266,2015-10-01,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Unknown,4.11733333333333,4.708666666666669,Morning,1,1,2015,10,40,1,3,2015-10
+265,2015-10-01,South East Asia,Malaysia,Theft at anchorage,Product tanker,0,Anchorage,5.81666666666667,118.092333333333,Evening,1,1,2015,10,40,1,3,2015-10
+264,2015-10-03,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Anchorage,6.11933333333333,3.3575,Unknown,1,1,2015,10,40,3,5,2015-10
+263,2015-10-05,South East Asia,Indonesia,Theft at anchorage,General cargo vessel,0,Anchorage,-5.97866666666667,106.89200000000001,Night,1,1,2015,10,41,5,0,2015-10
+262,2015-10-05,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Anchorage,3.93333333333333,98.8175,Morning,1,0,2015,10,41,5,0,2015-10
+261,2015-10-06,South East Asia,Malaysia,Theft at anchorage,Product tanker,0,Anchorage,5.82166666666667,118.151666666667,Night,1,1,2015,10,41,6,1,2015-10
+260,2015-10-08,East Africa,Somalia,Notice,Unknown vessel type,0,Unknown,8.71384472222222,59.1288766666667,Unknown,1,0,2015,10,41,8,3,2015-10
+259,2015-10-09,South East Asia,Singapore,Theft at sea,Bulk carrier,0,Off shore,1.065,103.623333333333,Evening,1,1,2015,10,41,9,4,2015-10
+258,2015-10-09,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.08666666666667,103.583333333333,Night,1,1,2015,10,41,9,4,2015-10
+257,2015-10-10,Eastern Mediterranean,Yemen,Counter insurgency/military operation,Unknown vessel type,0,Off shore,12.583333055555599,43.3333330555556,Unknown,1,1,2015,10,41,10,5,2015-10
+256,2015-10-10,South East Asia,Philippines,"Failed attack, robbery",General cargo vessel,0,Off shore,5.4565,125.53333333333299,Morning,1,0,2015,10,41,10,5,2015-10
+255,2015-10-11,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.98333333333333,6.31666666666667,Unknown,1,1,2015,10,41,11,6,2015-10
+254,2015-10-12,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.528294166666697,89.9742877777778,Morning,1,1,2015,10,42,12,0,2015-10
+252,2015-10-13,West Africa,Nigeria,Suspicious activity at sea,Unknown vessel type,0,Off shore,5.38333333333333,4.5,Morning,1,0,2015,10,42,13,1,2015-10
+253,2015-10-13,North Africa,Libya,Other maritime risk,Unknown vessel type,0,Unknown,32.0681758333333,23.941751111111103,Unknown,1,1,2015,10,42,13,1,2015-10
+247,2015-10-15,South East Asia,Malaysia,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.25966666666667,103.445166666667,Morning,1,0,2015,10,42,15,3,2015-10
+251,2015-10-15,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.11666666666667,103.5,Night,1,0,2015,10,42,15,3,2015-10
+249,2015-10-15,South East Asia,Indonesia,"Failed attack, robbery",Crude oil tanker,0,Off shore,1.18166666666667,103.44,Night,1,0,2015,10,42,15,3,2015-10
+248,2015-10-15,South East Asia,Indonesia,"Failed attack, robbery",Gas tanker,0,Off shore,1.212,103.441833333333,Night,1,0,2015,10,42,15,3,2015-10
+250,2015-10-15,South East Asia,Indonesia,Armed robbery at anchorage,Gas tanker,0,Off shore,1.12333333333333,103.528333333333,Night,1,1,2015,10,42,15,3,2015-10
+246,2015-10-16,South East Asia,Indonesia,Armed robbery at sea,General cargo vessel,0,Off shore,1.05066666666667,103.624666666667,Night,1,1,2015,10,42,16,4,2015-10
+245,2015-10-16,South East Asia,Indonesia,"Failed attack, robbery",Gas tanker,0,Off shore,1.0395,103.6525,Night,1,0,2015,10,42,16,4,2015-10
+244,2015-10-18,South East Asia,Vietnam,"Failed attack, robbery",Crude oil tanker,0,Anchorage,10.1116666666667,107.115,Morning,1,0,2015,10,42,18,6,2015-10
+243,2015-10-19,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,3.9215,5.425,Evening,1,1,2015,10,43,19,0,2015-10
+240,2015-10-20,South East Asia,Indonesia,Armed robbery at sea,Tug,0,Off shore,0.591394722222222,103.38312944444401,Morning,1,1,2015,10,43,20,1,2015-10
+242,2015-10-20,South East Asia,Indonesia,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,1.09282888888889,103.384051388889,Unknown,1,0,2015,10,43,20,1,2015-10
+241,2015-10-20,Americas,Colombia,"Failed attack, robbery",Product tanker,0,Anchorage,10.32,-74.48,Night,1,0,2015,10,43,20,1,2015-10
+239,2015-10-21,South East Asia,Indonesia,Theft at sea,Product tanker,0,Off shore,1.11834722222222,103.765635,Night,1,1,2015,10,43,21,2,2015-10
+237,2015-10-22,South East Asia,Indonesia,"Failed attack, robbery",Chemical tanker,0,Anchorage,3.88333333333333,98.7833333333333,Night,1,0,2015,10,43,22,3,2015-10
+236,2015-10-22,South East Asia,Indonesia,Armed robbery at sea,Bulk carrier,0,Off shore,1.11333333333333,103.53333333333299,Night,1,1,2015,10,43,22,3,2015-10
+235,2015-10-22,South East Asia,Vietnam,"Failed attack, robbery",Bulk carrier,0,Anchorage,20.6916666666667,107.223333333333,Evening,1,0,2015,10,43,22,3,2015-10
+238,2015-10-22,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Off shore,1.09770861111111,103.47877111111099,Night,1,0,2015,10,43,22,3,2015-10
+234,2015-10-24,West Africa,Liberia,Theft at anchorage,Bulk carrier,0,Anchorage,6.33333333333333,-9.15,Morning,1,1,2015,10,43,24,5,2015-10
+233,2015-10-24,North East Asia,South Korea,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,37.450004722222204,125.28259277777799,Afternoon,1,0,2015,10,43,24,5,2015-10
+232,2015-10-25,West Africa,Cameroon,Suspicious activity at sea,Other,0,Off shore,4.35,8.4,Evening,1,0,2015,10,43,25,6,2015-10
+231,2015-10-26,East Africa,Somalia,Other maritime risk,Merchant vessel,0,Off shore,11.784166666666698,63.0,Morning,1,1,2015,10,44,26,0,2015-10
+230,2015-10-26,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.503319444444397,89.87341138888891,Evening,1,1,2015,10,44,26,0,2015-10
+228,2015-10-27,East Africa,Oman,Suspicious activity at sea,Merchant vessel,0,Off shore,20.181166666666698,59.1916666666667,Morning,1,0,2015,10,44,27,1,2015-10
+229,2015-10-27,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,22.2292519444444,91.3076025,Unknown,1,1,2015,10,44,27,1,2015-10
+227,2015-10-29,East Africa,Tanzania,Other maritime risk,Unknown vessel type,0,Unknown,-5.20764611111111,39.2083283333333,Unknown,1,1,2015,10,44,29,3,2015-10
+226,2015-10-29,South Asia,India,Theft at anchorage,Crude oil tanker,0,Anchorage,22.6666666666667,69.9333333333333,Morning,1,1,2015,10,44,29,3,2015-10
+223,2015-10-31,West Africa,Congo,"Failed attack, robbery",Tanker,0,Anchorage,-3.2666666666666697,11.783333333333301,Night,1,0,2015,10,44,31,5,2015-10
+225,2015-10-31,South Asia,India,Theft at anchorage,Bulk carrier,0,Anchorage,22.7738333333333,70.03716666666669,Night,1,1,2015,10,44,31,5,2015-10
+224,2015-10-31,South Asia,India,Theft at anchorage,Bulk carrier,0,Anchorage,22.7738333333333,70.03716666666669,Night,1,1,2015,10,44,31,5,2015-10
+222,2015-11-01,Eastern Mediterranean,Finland,Other maritime risk,Bulk carrier,0,Berth,60.1570666666667,24.9825669444444,Unknown,1,1,2015,11,44,1,6,2015-11
+221,2015-11-01,South East Asia,Vietnam,"Failed attack, robbery",Container ship,0,Berth,10.7316666666667,106.76,Morning,1,0,2015,11,44,1,6,2015-11
+220,2015-11-03,North Africa,Libya,Other maritime risk,Unknown vessel type,0,Unknown,32.6376402777778,14.263000555555598,Unknown,1,1,2015,11,45,3,1,2015-11
+219,2015-11-03,South East Asia,Indonesia,"Failed attack, robbery",Bulk carrier,0,Anchorage,-2.3,114.433333333333,Night,1,0,2015,11,45,3,1,2015-11
+218,2015-11-03,Americas,Trinidad And Tobago,Armed robbery at anchorage,Tug,0,Anchorage,10.6803872222222,-60.38279250000001,Night,1,1,2015,11,45,3,1,2015-11
+217,2015-11-04,North Africa,Libya,Other maritime risk,Unknown vessel type,0,Unknown,30.4035133333333,19.612364166666698,Unknown,1,1,2015,11,45,4,2,2015-11
+216,2015-11-05,Eastern Mediterranean,Egypt,Other maritime risk,Unknown vessel type,0,Unknown,31.3815052777778,34.1518019444444,Unknown,1,1,2015,11,45,5,3,2015-11
+215,2015-11-06,South East Asia,Indonesia,"Failed attack, robbery",Container ship,0,Anchorage,3.7928672222222204,98.7034908333333,Afternoon,1,0,2015,11,45,6,4,2015-11
+214,2015-11-07,Eastern Mediterranean,Egypt,"Failed attack, robbery",Container ship,0,Off shore,31.2,29.733333333333302,Night,1,0,2015,11,45,7,5,2015-11
+213,2015-11-08,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,4.330030277777779,7.09802638888889,Morning,1,1,2015,11,45,8,6,2015-11
+212,2015-11-09,West Africa,Guinea,Theft at berth,Tug,0,Berth,9.5,-12.283333333333301,Night,1,1,2015,11,46,9,0,2015-11
+211,2015-11-10,South East Asia,Vietnam,"Failed attack, robbery",Container ship,0,Anchorage,10.25,107.05,Night,1,0,2015,11,46,10,1,2015-11
+210,2015-11-12,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,3.93333333333333,98.75,Morning,1,1,2015,11,46,12,3,2015-11
+209,2015-11-13,South East Asia,Indonesia,Armed robbery at berth,Bulk carrier,0,Berth,-5.89964666666667,106.80682194444401,Night,1,1,2015,11,46,13,4,2015-11
+208,2015-11-13,Americas,Usa,"Failed attack, robbery",Supply vessel,0,Berth,29.154796111111104,-89.81456277777781,Morning,1,0,2015,11,46,13,4,2015-11
+207,2015-11-14,South East Asia,Vietnam,Armed robbery at anchorage,Container ship,0,Anchorage,10.2333333333333,107.03333333333299,Night,1,1,2015,11,46,14,5,2015-11
+206,2015-11-14,East Africa,Somalia,Other maritime risk,Container ship,0,Off shore,-0.3633333333333329,46.055,Morning,1,1,2015,11,46,14,5,2015-11
+205,2015-11-15,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,6.5803952777777805,3.93688194444444,Afternoon,1,1,2015,11,46,15,6,2015-11
+204,2015-11-18,Americas,Haiti,Armed robbery at anchorage,General cargo vessel,0,Anchorage,18.559166666666698,-71.6128333333333,Night,1,1,2015,11,47,18,2,2015-11
+203,2015-11-18,West Africa,Congo,"Failed attack, robbery",Product tanker,0,Anchorage,-3.25,11.816666666666698,Evening,1,0,2015,11,47,18,2,2015-11
+202,2015-11-19,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.4499158333333,90.1833344444445,Unknown,1,1,2015,11,47,19,3,2015-11
+201,2015-11-20,East Africa,Somalia,Other maritime risk,Unknown vessel type,0,Off shore,13.2,48.9686666666667,Morning,1,1,2015,11,47,20,4,2015-11
+200,2015-11-20,South East Asia,Indonesia,"Failed attack, robbery",Tug,0,Off shore,1.176,103.675833333333,Morning,1,0,2015,11,47,20,4,2015-11
+199,2015-11-21,East Africa,Somalia,Suspicious activity at sea,Merchant vessel,0,Off shore,9.869666666666669,55.2666666666667,Afternoon,1,0,2015,11,47,21,5,2015-11
+198,2015-11-22,East Africa,Somalia,Hijacking at sea,Fishing vessel,0,Off shore,6.26666666666667,53.5,Afternoon,1,1,2015,11,47,22,6,2015-11
+197,2015-11-23,South East Asia,New Zealand,Other maritime risk,Other,0,Berth,-40.7136969444444,174.80999,Morning,1,1,2015,11,48,23,0,2015-11
+196,2015-11-23,East Africa,Somalia,Suspicious activity at sea,Unknown vessel type,0,Off shore,12.217666666666698,45.814666666666696,Morning,1,0,2015,11,48,23,0,2015-11
+195,2015-11-25,South Asia,India,"Failed attack, robbery",Bulk carrier,0,Anchorage,17.05,82.4,Night,1,0,2015,11,48,25,2,2015-11
+194,2015-11-26,West Africa,Nigeria,Kidnap/ransom at sea,General cargo vessel,0,Off shore,4.0333333333333306,6.0,Evening,1,1,2015,11,48,26,3,2015-11
+193,2015-12-01,West Africa,Congo,"Failed attack, robbery",Tug,0,Anchorage,-3.25,11.833333333333302,Night,1,0,2015,12,49,1,1,2015-12
+192,2015-12-02,South Asia,India,Armed robbery at anchorage,Crude oil tanker,0,Anchorage,22.663333333333302,69.965,Morning,1,1,2015,12,49,2,2,2015-12
+191,2015-12-03,South East Asia,Thailand,Hijacking at sea,Fishing vessel,0,Off shore,6.36197694444444,99.9817655555556,Unknown,1,1,2015,12,49,3,3,2015-12
+190,2015-12-04,South East Asia,Vietnam,Armed robbery at anchorage,Bulk carrier,0,Anchorage,20.7,107.166666666667,Evening,1,1,2015,12,49,4,4,2015-12
+189,2015-12-05,Eastern Mediterranean,Turkey,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,41.3005205555556,36.342515833333294,Unknown,1,0,2015,12,49,5,5,2015-12
+188,2015-12-05,West Africa,Congo,"Failed attack, theft",Bulk carrier,0,Anchorage,-3.235,11.793333333333301,Night,1,0,2015,12,49,5,5,2015-12
+184,2015-12-08,South East Asia,Indonesia,"Failed attack, theft",Chemical tanker,0,Anchorage,3.9516666666666698,98.7883333333333,Afternoon,1,0,2015,12,50,8,1,2015-12
+186,2015-12-08,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,3.9527777777777797,117.602777777778,Night,1,1,2015,12,50,8,1,2015-12
+185,2015-12-08,North East Asia,China,"Failed attack, theft",Bulk carrier,0,Anchorage,38.7,118.8,Night,1,0,2015,12,50,8,1,2015-12
+187,2015-12-08,North East Asia,China,"Failed attack, robbery",Bulk carrier,0,Anchorage,38.77833333333329,118.39333333333299,Night,1,0,2015,12,50,8,1,2015-12
+183,2015-12-09,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Unknown,21.749295833333303,89.32983388888891,Unknown,1,1,2015,12,50,9,2,2015-12
+182,2015-12-11,West Africa,Nigeria,Kidnap/ransom at berth,Unknown vessel type,0,Berth,5.515797222222219,5.72473527777778,Unknown,1,1,2015,12,50,11,4,2015-12
+181,2015-12-11,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.5219391666666695,7.0058441666666695,Evening,1,1,2015,12,50,11,4,2015-12
+180,2015-12-12,South East Asia,Philippines,Theft at anchorage,Container ship,0,Anchorage,14.6545430555556,120.801544166667,Morning,1,1,2015,12,50,12,5,2015-12
+179,2015-12-12,West Africa,Cote D'Ivoire,Suspicious activity at sea,Tanker,0,Off shore,0.933333333333333,-6.7833333333333306,Morning,1,0,2015,12,50,12,5,2015-12
+178,2015-12-14,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,4.43639222222222,7.22562555555556,Unknown,1,0,2015,12,51,14,0,2015-12
+177,2015-12-14,North East Asia,China,Armed robbery at anchorage,Bulk carrier,0,Anchorage,38.81,118.33,Night,1,1,2015,12,51,14,0,2015-12
+176,2015-12-15,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.2383333333333,107.023333333333,Morning,1,1,2015,12,51,15,1,2015-12
+175,2015-12-16,West Africa,Congo,Armed robbery at anchorage,General cargo vessel,0,Anchorage,-4.15333333333333,13.43,Night,1,1,2015,12,51,16,2,2015-12
+174,2015-12-16,South East Asia,Vietnam,Theft at anchorage,Bulk carrier,0,Anchorage,20.9908719444444,107.267417777778,Night,1,1,2015,12,51,16,2,2015-12
+173,2015-12-18,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.63829611111111,7.926635555555559,Unknown,1,1,2015,12,51,18,4,2015-12
+172,2015-12-18,South East Asia,Philippines,"Failed attack, robbery",Bulk carrier,0,Off shore,5.95,119.833333333333,Afternoon,1,0,2015,12,51,18,4,2015-12
+171,2015-12-19,South East Asia,Philippines,Theft at anchorage,Container ship,0,Anchorage,14.583333333333302,120.816666666667,Night,1,1,2015,12,51,19,5,2015-12
+170,2015-12-20,East Africa,Djibouti,Suspicious activity at sea,Merchant vessel,0,Off shore,13.083333333333302,42.95,Morning,1,0,2015,12,51,20,6,2015-12
+169,2015-12-21,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.50347888888889,6.81775805555556,Morning,1,1,2015,12,52,21,0,2015-12
+168,2015-12-22,South East Asia,Australia,Theft at anchorage,Container ship,0,Anchorage,14.621058333333302,120.67588805555599,Night,1,1,2015,12,52,22,1,2015-12
+167,2015-12-22,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,4.48157361111111,7.818887222222219,Morning,1,1,2015,12,52,22,1,2015-12
+166,2015-12-23,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.521563888888889,6.246757499999999,Afternoon,1,1,2015,12,52,23,2,2015-12
+165,2015-12-24,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,21.616579444444397,89.95056138888891,Unknown,1,1,2015,12,52,24,3,2015-12
+164,2015-12-24,South Asia,India,Theft at anchorage,Product tanker,0,Anchorage,22.766666666666698,70.0333333333333,Morning,1,1,2015,12,52,24,3,2015-12
+163,2015-12-25,South Asia,Bangladesh,Kidnap/ransom at sea,General cargo vessel,0,Off shore,22.6630975,90.8163097222222,Morning,1,1,2015,12,52,25,4,2015-12
+162,2015-12-27,West Africa,Nigeria,"Failed attack, robbery",Product tanker,0,Anchorage,5.44253861111111,5.06729138888889,Unknown,1,0,2015,12,52,27,6,2015-12
+161,2015-12-27,South East Asia,Indonesia,"Failed attack, theft",Bulk carrier,0,Anchorage,-2.275,114.43,Evening,1,0,2015,12,52,27,6,2015-12
+160,2015-12-29,North East Asia,China,"Failed attack, theft",Bulk carrier,0,Anchorage,38.795,118.27,Night,1,0,2015,12,53,29,1,2015-12
+159,2015-12-29,West Africa,Nigeria,"Failed attack, theft",Product tanker,0,Berth,6.436026944444441,3.3765449999999997,Morning,1,0,2015,12,53,29,1,2015-12
+158,2015-12-30,South Asia,India,Theft at anchorage,Tanker,0,Anchorage,22.6166666666667,69.9166666666667,Unknown,1,1,2015,12,53,30,2,2015-12
+157,2015-12-31,West Africa,Nigeria,"Failed attack, theft",Supply vessel,0,Berth,4.68333333333333,7.16666666666667,Night,1,0,2015,12,53,31,3,2015-12
+39,2016-01-01,North East Asia,China,Theft at anchorage,Bulk carrier,0,Anchorage,38.7103744444444,118.04260249999999,Afternoon,1,1,2016,1,53,1,4,2016-01
+38,2016-01-02,South East Asia,Malaysia,"Failed attack, hijacking",Fishing vessel,0,Off shore,1.3629058333333302,103.26825500000001,Unknown,1,0,2016,1,53,2,5,2016-01
+37,2016-01-02,South East Asia,Vietnam,Other maritime risk,Fishing vessel,0,Unknown,17.5897033333333,107.83973694444401,Unknown,1,1,2016,1,53,2,5,2016-01
+36,2016-01-04,West Africa,Congo,"Failed attack, theft",Merchant vessel,0,Anchorage,-3.2377002777777797,11.842575,Evening,1,0,2016,1,1,4,0,2016-01
+35,2016-01-05,South East Asia,Vietnam,Theft at anchorage,Bulk carrier,0,Anchorage,20.6875,107.17555555555599,Night,1,1,2016,1,1,5,1,2016-01
+33,2016-01-07,South Asia,India,Theft at anchorage,General cargo vessel,0,Anchorage,22.8166666666667,70.0833333333333,Evening,1,1,2016,1,1,7,3,2016-01
+34,2016-01-07,South East Asia,Vietnam,Armed robbery at anchorage,Bulk carrier,0,Anchorage,20.716666666666697,107.15,Night,1,1,2016,1,1,7,3,2016-01
+32,2016-01-08,Eastern Mediterranean,Egypt,"Terrorist attack, other, maritime",Unknown vessel type,0,Unknown,27.215961388888896,33.8392752777778,Unknown,1,1,2016,1,1,8,4,2016-01
+31,2016-01-09,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,4.98333333333333,8.41666666666667,Morning,1,1,2016,1,1,9,5,2016-01
+30,2016-01-09,South East Asia,Singapore,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,1.31638888888889,104.24888888888901,Morning,1,0,2016,1,1,9,5,2016-01
+29,2016-01-09,West Africa,Nigeria,"Failed attack, robbery",Other,0,Off shore,4.41666666666667,5.58333333333333,Afternoon,1,0,2016,1,1,9,5,2016-01
+28,2016-01-10,North Africa,Libya,"Terrorist attack, other, maritime",Unknown vessel type,0,Unknown,30.9529169444444,20.1087327777778,Unknown,1,1,2016,1,1,10,6,2016-01
+27,2016-01-11,South Asia,India,Theft at anchorage,Bulk carrier,0,Anchorage,22.7805555555556,69.9833333333333,Evening,1,1,2016,1,2,11,0,2016-01
+26,2016-01-11,South Asia,India,"Failed attack, robbery",Product tanker,0,Anchorage,23.0241738888889,70.2331680555556,Evening,1,0,2016,1,2,11,0,2016-01
+25,2016-01-12,West Africa,Nigeria,Other maritime risk,Product tanker,0,Unknown,6.39916666666667,3.40277777777778,Night,1,1,2016,1,2,12,1,2016-01
+24,2016-01-13,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,4.91666666666667,5.5,Night,1,1,2016,1,2,13,2,2016-01
+23,2016-01-14,West Africa,Nigeria,Armed robbery at sea,Supply vessel,0,Off shore,5.6,5.0,Afternoon,1,1,2016,1,2,14,3,2016-01
+22,2016-01-14,West Africa,Nigeria,Kidnap/ransom at sea,Passenger vessel,0,Off shore,4.58333333333333,6.5,Afternoon,1,1,2016,1,2,14,3,2016-01
+20,2016-01-15,West Africa,Nigeria,Armed robbery at sea,Tug,0,Off shore,4.08333333333333,5.41666666666667,Night,1,1,2016,1,2,15,4,2016-01
+21,2016-01-15,South East Asia,Indonesia,Theft at anchorage,Supply vessel,0,Anchorage,0.733333333333333,104.15,Night,1,1,2016,1,2,15,4,2016-01
+19,2016-01-16,Eastern Mediterranean,Iran,Other maritime risk,Fishing vessel,0,Unknown,26.5908202777778,50.9802236111111,Unknown,1,1,2016,1,2,16,5,2016-01
+18,2016-01-17,South East Asia,Indonesia,"Failed attack, robbery",Fishing vessel,0,Off shore,4.05,105.85,Evening,1,0,2016,1,2,17,6,2016-01
+16,2016-01-18,West Africa,Nigeria,Kidnap/ransom at sea,Passenger vessel,0,Off shore,4.56666666666667,6.26666666666667,Morning,1,1,2016,1,3,18,0,2016-01
+17,2016-01-18,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.6601247222222195,5.192488055555559,Unknown,1,1,2016,1,3,18,0,2016-01
+14,2016-01-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Other,0,Off shore,3.95,5.03305555555556,Afternoon,1,0,2016,1,3,19,1,2016-01
+13,2016-01-19,West Africa,Cote D'Ivoire,Armed robbery at anchorage,Merchant vessel,0,Anchorage,5.2166666666666694,-3.96666666666667,Evening,1,1,2016,1,3,19,1,2016-01
+15,2016-01-19,West Africa,Congo,Armed robbery at anchorage,Merchant vessel,0,Anchorage,-3.55,11.5,Night,1,1,2016,1,3,19,1,2016-01
+12,2016-01-21,Eastern Mediterranean,Yemen,Counter insurgency/military operation,Unknown vessel type,0,Unknown,15.1844763888889,42.6290988888889,Unknown,1,1,2016,1,3,21,3,2016-01
+11,2016-01-21,West Africa,Nigeria,"Failed attack, robbery",Other,0,Off shore,4.25,8.33333333333333,Evening,1,0,2016,1,3,21,3,2016-01
+10,2016-01-22,West Africa,Cote D'Ivoire,Theft at anchorage,Tanker,0,Anchorage,5.268678611111111,-3.96805444444444,Night,1,1,2016,1,3,22,4,2016-01
+9,2016-01-23,South Asia,India,Theft at anchorage,Gas tanker,0,Anchorage,17.65,83.4,Morning,1,1,2016,1,3,23,5,2016-01
+8,2016-01-24,West Africa,Congo,"Failed attack, theft",Product tanker,0,Anchorage,-4.1583333333333306,13.431666666666699,Night,1,0,2016,1,3,24,6,2016-01
+7,2016-01-25,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.83333333333333,5.66666666666667,Unknown,1,1,2016,1,4,25,0,2016-01
+6,2016-01-25,South Asia,India,Armed robbery at sea,Product tanker,0,Off shore,22.783333333333303,70.0333333333333,Night,1,1,2016,1,4,25,0,2016-01
+5,2016-01-25,Americas,Venezuela,Theft at anchorage,General cargo vessel,0,Anchorage,10.2675,-63.4325,Evening,1,1,2016,1,4,25,0,2016-01
+4,2016-01-27,East Africa,Somalia,Suspicious activity at sea,Unknown vessel type,0,Off shore,13.9987469444444,54.1127916666667,Unknown,1,0,2016,1,4,27,2,2016-01
+3,2016-01-28,South Asia,India,"Failed attack, robbery",Product tanker,0,Anchorage,22.8166666666667,70.1166666666667,Night,1,0,2016,1,4,28,3,2016-01
+2,2016-01-29,West Africa,Nigeria,Kidnap/ransom at sea,Product tanker,0,Off shore,2.5,5.75,Evening,1,1,2016,1,4,29,4,2016-01
+1,2016-01-30,West Africa,Nigeria,"Failed attack, hijacking",Container ship,0,Off shore,3.0,6.25,Evening,1,0,2016,1,4,30,5,2016-01
+79,2016-02-03,Americas,Peru,"Failed attack, theft",Product tanker,0,Anchorage,-12.0,-76.8,Night,1,0,2016,2,5,3,2,2016-02
+78,2016-02-05,Americas,Guyana,Armed robbery at anchorage,Container ship,0,Anchorage,6.83853333333333,-57.8068844444444,Night,1,1,2016,2,5,5,4,2016-02
+77,2016-02-05,West Africa,Nigeria,"Failed attack, robbery",Gas tanker,0,Off shore,4.16666666666667,7.0,Morning,1,0,2016,2,5,5,4,2016-02
+76,2016-02-05,West Africa,Nigeria,"Failed attack, kidnap/ransom",Container ship,1,Off shore,4.05555555555556,6.88333333333333,Morning,1,0,2016,2,5,5,4,2016-02
+75,2016-02-08,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,5.16666666666667,1.0,Morning,1,1,2016,2,6,8,0,2016-02
+74,2016-02-08,South Asia,India,"Failed attack, theft",Product tanker,0,Anchorage,22.783333333333303,70.0,Evening,1,0,2016,2,6,8,0,2016-02
+73,2016-02-09,West Africa,Nigeria,Notice,Unknown vessel type,0,Unknown,3.5134211111111098,5.954589722222219,Unknown,1,0,2016,2,6,9,1,2016-02
+72,2016-02-09,West Africa,Congo,Armed robbery at anchorage,Bulk carrier,0,Anchorage,-4.13333333333333,13.033333333333301,Night,1,1,2016,2,6,9,1,2016-02
+71,2016-02-09,Eastern Mediterranean,Yemen,Insurgency operation,Unknown vessel type,0,Unknown,12.861343333333302,44.984893888888905,Morning,1,1,2016,2,6,9,1,2016-02
+70,2016-02-09,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,3.63333333333333,-0.683333333333333,Afternoon,1,1,2016,2,6,9,1,2016-02
+69,2016-02-10,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,4.15,-1.21666666666667,Morning,1,1,2016,2,6,10,2,2016-02
+65,2016-02-11,West Africa,Cote D'Ivoire,Hijacking at sea,Tanker,0,Off shore,4.0,-4.0,Evening,1,1,2016,2,6,11,3,2016-02
+66,2016-02-11,West Africa,Nigeria,"Failed attack, hijacking",Product tanker,0,Off shore,3.60194444444444,5.635,Afternoon,1,0,2016,2,6,11,3,2016-02
+68,2016-02-11,North Africa,Libya,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,32.8934258333333,22.5164794444444,Unknown,1,0,2016,2,6,11,3,2016-02
+67,2016-02-11,West Africa,Cote D'Ivoire,Hijacking at sea,Unknown vessel type,0,Off shore,4.13666666666667,-3.97027777777778,Morning,1,1,2016,2,6,11,3,2016-02
+64,2016-02-12,North Africa,Libya,Anti-piracy/naval operation,Tanker,0,Unknown,33.4418986111111,12.6823425,Evening,1,0,2016,2,6,12,4,2016-02
+63,2016-02-13,West Africa,Ghana,Hijacking at sea,Unknown vessel type,0,Off shore,2.75,-0.933333333333333,Morning,1,1,2016,2,6,13,5,2016-02
+58,2016-02-14,South Asia,India,"Failed attack, theft",Bulk carrier,0,Anchorage,22.766666666666698,70.0,Night,1,0,2016,2,6,14,6,2016-02
+59,2016-02-14,West Africa,Nigeria,Suspicious activity at berth,Merchant vessel,0,Berth,6.43352444444445,3.3659361111111097,Night,1,0,2016,2,6,14,6,2016-02
+60,2016-02-14,South East Asia,Philippines,Theft at anchorage,Product tanker,0,Anchorage,13.716666666666699,121.03333333333299,Night,1,1,2016,2,6,14,6,2016-02
+61,2016-02-14,East Africa,Yemen,Anti-piracy/naval operation,Supply vessel,0,Unknown,16.8844327777778,42.5317130555556,Unknown,1,0,2016,2,6,14,6,2016-02
+62,2016-02-14,West Africa,Togo,Hijacking at sea,Unknown vessel type,0,Off shore,3.27214555555556,1.38427722222222,Unknown,1,1,2016,2,6,14,6,2016-02
+56,2016-02-15,South Asia,India,Theft at anchorage,Product tanker,0,Anchorage,22.033333333333303,88.1,Morning,1,1,2016,2,7,15,0,2016-02
+57,2016-02-15,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,2.46666666666667,2.65,Unknown,1,1,2016,2,7,15,0,2016-02
+54,2016-02-17,West Africa,Nigeria,Hijacking at sea,Tanker,0,Off shore,3.4166666666666696,3.4,Afternoon,1,1,2016,2,7,17,2,2016-02
+55,2016-02-17,West Africa,Nigeria,Hijacking at sea,Tanker,0,Off shore,4.1,3.45,Morning,1,1,2016,2,7,17,2,2016-02
+53,2016-02-18,West Africa,Nigeria,Hijacking at sea,Tanker,0,Off shore,1.6333333333333302,3.63333333333333,Afternoon,1,1,2016,2,7,18,3,2016-02
+50,2016-02-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Fishing vessel,0,Off shore,4.5771094444444405,8.232193055555559,Afternoon,1,0,2016,2,7,19,4,2016-02
+51,2016-02-19,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.388175,5.98892222222222,Morning,1,1,2016,2,7,19,4,2016-02
+49,2016-02-19,South Asia,India,"Failed attack, theft",Tug,0,Off shore,21.14,72.16,Afternoon,1,0,2016,2,7,19,4,2016-02
+48,2016-02-19,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,1.6666666666666698,3.6666666666666696,Afternoon,1,0,2016,2,7,19,4,2016-02
+52,2016-02-19,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,21.8602777777778,89.94638888888892,Unknown,1,1,2016,2,7,19,4,2016-02
+47,2016-02-20,East Africa,Yemen,Suspicious activity at sea,Bulk carrier,0,Off shore,14.7,51.4666666666667,Night,1,0,2016,2,7,20,5,2016-02
+46,2016-02-20,West Africa,Equatorial Guinea,Suspicious activity at sea,Unknown vessel type,0,Off shore,2.53333333333333,8.21666666666667,Afternoon,1,0,2016,2,7,20,5,2016-02
+45,2016-02-23,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,3.81666666666667,5.33333333333333,Morning,1,1,2016,2,8,23,1,2016-02
+44,2016-02-25,East Africa,Somalia,Suspicious activity at sea,Unknown vessel type,0,Off shore,13.7683333333333,51.1841666666667,Morning,1,0,2016,2,8,25,3,2016-02
+43,2016-02-26,West Africa,Nigeria,Armed robbery at sea,Supply vessel,0,Off shore,4.11666666666667,4.9666666666666694,Afternoon,1,1,2016,2,8,26,4,2016-02
+42,2016-02-26,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,4.35051805555555,5.225372222222219,Evening,1,1,2016,2,8,26,4,2016-02
+41,2016-02-29,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,5.41532444444444,5.50689694444444,Morning,1,1,2016,2,9,29,0,2016-02
+40,2016-02-29,North Africa,Libya,Counter insurgency/military operation,Unknown vessel type,0,Unknown,31.213916388888897,16.6320991666667,Morning,1,1,2016,2,9,29,0,2016-02
+106,2016-03-01,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.839206944444441,8.24249277777778,Morning,1,1,2016,3,9,1,1,2016-03
+104,2016-03-02,West Africa,Ghana,Notice,Unknown vessel type,0,Unknown,5.60743861111111,-0.0365280555555556,Unknown,1,0,2016,3,9,2,2,2016-03
+105,2016-03-02,Eastern Mediterranean,Yemen,Other maritime risk,Unknown vessel type,0,Unknown,14.8863961111111,42.9208375,Unknown,1,1,2016,3,9,2,2,2016-03
+103,2016-03-03,East Africa,Kenya,Armed robbery at anchorage,Product tanker,0,Anchorage,-3.9166666666666696,39.6722222222222,Night,1,1,2016,3,9,3,3,2016-03
+101,2016-03-04,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,-5.9295475,106.759768333333,Afternoon,1,1,2016,3,9,4,4,2016-03
+102,2016-03-04,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,20.755085555555603,89.25567611111109,Unknown,1,1,2016,3,9,4,4,2016-03
+100,2016-03-05,West Africa,Nigeria,Kidnap/ransom at sea,Product tanker,0,Off shore,4.0958333333333306,6.704444444444441,Unknown,1,1,2016,3,9,5,5,2016-03
+99,2016-03-09,West Africa,Congo,"Failed attack, theft",Other,0,Berth,-4.125555555555549,13.038333333333302,Night,1,0,2016,3,10,9,2,2016-03
+98,2016-03-10,South Asia,Bangladesh,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,21.8640477777778,89.7445677777778,Morning,1,0,2016,3,10,10,3,2016-03
+97,2016-03-11,West Africa,Nigeria,Other maritime risk,Product tanker,0,Berth,6.39916666666667,3.40277777777778,Night,1,1,2016,3,10,11,4,2016-03
+95,2016-03-11,West Africa,Nigeria,"Failed attack, kidnap/ransom",Bulk carrier,0,Off shore,3.5,5.05,Evening,1,0,2016,3,10,11,4,2016-03
+96,2016-03-11,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,2.86666666666667,4.85,Afternoon,1,0,2016,3,10,11,4,2016-03
+94,2016-03-12,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,2.6138888888888903,6.10833333333333,Afternoon,1,1,2016,3,10,12,5,2016-03
+92,2016-03-13,West Africa,Nigeria,Suspicious activity at sea,Product tanker,0,Off shore,6.3347222222222195,3.3333333333333304,Evening,1,0,2016,3,10,13,6,2016-03
+93,2016-03-13,West Africa,Cote D'Ivoire,"Terrorist attack, other, maritime",Unknown vessel type,0,Unknown,5.19456305555556,-2.2647236111111098,Afternoon,1,1,2016,3,10,13,6,2016-03
+91,2016-03-14,East Africa,Somalia,Insurgency operation,Unknown vessel type,0,Unknown,6.94169416666667,49.32312,Unknown,1,1,2016,3,11,14,0,2016-03
+90,2016-03-15,Americas,Argentina,Anti-piracy/naval operation,Fishing vessel,0,Unknown,-40.2077175,-59.7580038888889,Unknown,1,0,2016,3,11,15,1,2016-03
+89,2016-03-17,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.679358611111111,6.777191111111111,Morning,1,1,2016,3,11,17,3,2016-03
+88,2016-03-21,South East Asia,Malaysia,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,2.96498444444444,100.426025277778,Morning,1,0,2016,3,12,21,0,2016-03
+86,2016-03-22,South East Asia,Indonesia,Armed robbery at anchorage,Bulk carrier,0,Anchorage,-4.1025,106.872222222222,Night,1,1,2016,3,12,22,1,2016-03
+87,2016-03-22,South East Asia,Indonesia,Theft at berth,Product tanker,0,Berth,1.44194444444444,125.196388888889,Evening,1,1,2016,3,12,22,1,2016-03
+85,2016-03-23,Americas,Peru,Theft at anchorage,Other,0,Anchorage,-11.983333333333302,-76.8,Evening,1,1,2016,3,12,23,2,2016-03
+84,2016-03-26,South East Asia,Malaysia,Kidnap/ransom at sea,Tug,0,Off shore,4.81555555555556,119.21472222222201,Afternoon,1,1,2016,3,12,26,5,2016-03
+83,2016-03-26,West Africa,Nigeria,Kidnap/ransom at sea,Product tanker,0,Off shore,4.33333333333333,5.16666666666667,Night,1,1,2016,3,12,26,5,2016-03
+82,2016-03-27,North East Asia,China,Theft at berth,Bulk carrier,0,Berth,32.2666666666667,119.416666666667,Unknown,1,1,2016,3,12,27,6,2016-03
+81,2016-03-30,South East Asia,Indonesia,"Failed attack, theft",Bulk carrier,0,Anchorage,-6.0,106.9,Night,1,0,2016,3,13,30,2,2016-03
+80,2016-03-30,West Africa,Benin,Suspicious activity at sea,Product tanker,0,Off shore,5.86805555555556,2.2002777777777798,Night,1,0,2016,3,13,30,2,2016-03
+156,2016-04-01,South Asia,Bangladesh,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,21.5655019444444,90.03845222222219,Unknown,1,0,2016,4,13,1,4,2016-04
+153,2016-04-01,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,3.9,5.7,Morning,1,0,2016,4,13,1,4,2016-04
+154,2016-04-01,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,-0.24944444444444397,117.568888888889,Night,1,1,2016,4,13,1,4,2016-04
+155,2016-04-01,West Africa,Cameroon,Insurgency operation,Unknown vessel type,0,Unknown,4.6614636111111105,8.51758,Evening,1,1,2016,4,13,1,4,2016-04
+152,2016-04-01,South East Asia,Malaysia,Kidnap/ransom at sea,Tug,0,Off shore,4.132222222222221,118.93805555555599,Evening,1,1,2016,4,13,1,4,2016-04
+151,2016-04-03,Eastern Mediterranean,Yemen,Counter insurgency/military operation,Unknown vessel type,0,Unknown,14.5357327777778,49.1384125,Unknown,1,1,2016,4,13,3,6,2016-04
+150,2016-04-03,South East Asia,Indonesia,"Failed attack, theft",Container ship,0,Anchorage,-4.01555555555556,106.900833333333,Evening,1,0,2016,4,13,3,6,2016-04
+149,2016-04-05,West Africa,Nigeria,Armed robbery at sea,Other,0,Off shore,4.7,6.7833333333333306,Unknown,1,1,2016,4,14,5,1,2016-04
+148,2016-04-06,South East Asia,Singapore,Theft at sea,Tug,0,Off shore,1.26944444444444,104.088888888889,Evening,1,1,2016,4,14,6,2,2016-04
+147,2016-04-07,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,3.30166666666667,5.385833333333331,Morning,1,0,2016,4,14,7,3,2016-04
+146,2016-04-07,West Africa,Nigeria,"Failed attack, kidnap/ransom",Merchant vessel,0,Off shore,3.3333333333333304,5.33333333333333,Evening,1,0,2016,4,14,7,3,2016-04
+144,2016-04-10,West Africa,Nigeria,Suspicious activity at sea,Merchant vessel,0,Off shore,3.2666666666666697,5.93333333333333,Night,1,0,2016,4,14,10,6,2016-04
+143,2016-04-10,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,3.3333333333333304,5.41666666666667,Morning,1,0,2016,4,14,10,6,2016-04
+145,2016-04-10,South East Asia,Philippines,Theft at anchorage,Other,0,Anchorage,13.755658333333301,121.033630277778,Night,1,1,2016,4,14,10,6,2016-04
+142,2016-04-11,West Africa,Nigeria,Kidnap/ransom at sea,Product tanker,0,Off shore,2.8,6.68333333333333,Night,1,1,2016,4,15,11,0,2016-04
+141,2016-04-11,West Africa,Nigeria,Kidnap/ransom at sea,Container ship,0,Off shore,4.13333333333333,5.4,Evening,1,1,2016,4,15,11,0,2016-04
+140,2016-04-11,Americas,Colombia,Theft at anchorage,Bulk carrier,0,Anchorage,3.8676800000000005,-76.90859222222221,Evening,1,1,2016,4,15,11,0,2016-04
+139,2016-04-12,South East Asia,Singapore,"Failed attack, theft",Other,0,Off shore,1.21348555555556,104.05288694444401,Unknown,1,0,2016,4,15,12,1,2016-04
+138,2016-04-12,South East Asia,Indonesia,Theft at anchorage,Container ship,0,Anchorage,-5.1,110.366666666667,Morning,1,1,2016,4,15,12,1,2016-04
+137,2016-04-13,West Africa,Nigeria,"Failed attack, kidnap/ransom",Tug,0,Off shore,4.25,8.0,Night,1,0,2016,4,15,13,2,2016-04
+136,2016-04-14,West Africa,Ghana,"Failed attack, theft",Merchant vessel,0,Anchorage,4.9,-0.35,Night,1,0,2016,4,15,14,3,2016-04
+135,2016-04-14,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,4.64940027777778,8.33184222222222,Night,1,1,2016,4,15,14,3,2016-04
+134,2016-04-15,West Africa,Nigeria,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,3.9032341666666697,6.7332458333333305,Unknown,1,0,2016,4,15,15,4,2016-04
+133,2016-04-15,West Africa,Togo,Other maritime risk,Container ship,0,Anchorage,6.08798388888889,1.26514444444444,Morning,1,1,2016,4,15,15,4,2016-04
+132,2016-04-15,East Africa,Somalia,Other maritime risk,Merchant vessel,0,Unknown,12.568333333333301,61.5844444444444,Afternoon,1,1,2016,4,15,15,4,2016-04
+131,2016-04-15,South East Asia,Malaysia,Kidnap/ransom at sea,Tug,0,Off shore,4.568055555555559,119.95,Evening,1,1,2016,4,15,15,4,2016-04
+130,2016-04-15,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,4.6426505555555595,8.33523277777778,Evening,1,1,2016,4,15,15,4,2016-04
+129,2016-04-16,South East Asia,Indonesia,"Failed attack, theft",Other,0,Off shore,1.40277777777778,104.566666666667,Night,1,0,2016,4,15,16,5,2016-04
+128,2016-04-17,South East Asia,Indonesia,"Failed attack, theft",General cargo vessel,0,Off shore,1.5,104.866666666667,Evening,1,0,2016,4,15,17,6,2016-04
+127,2016-04-18,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,3.9,5.63416666666667,Afternoon,1,0,2016,4,16,18,0,2016-04
+126,2016-04-19,South East Asia,Indonesia,"Failed attack, theft",Chemical tanker,0,Anchorage,3.93333333333333,98.75,Night,1,0,2016,4,16,19,1,2016-04
+125,2016-04-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Off shore,3.61666666666667,4.75,Morning,1,0,2016,4,16,19,1,2016-04
+124,2016-04-19,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,3.05166666666667,4.83333333333333,Afternoon,1,1,2016,4,16,19,1,2016-04
+123,2016-04-19,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,3.88333333333333,5.36666666666667,Evening,1,0,2016,4,16,19,1,2016-04
+122,2016-04-20,West Africa,Nigeria,Suspicious activity at sea,Gas tanker,0,Off shore,4.11666666666667,6.85,Night,1,0,2016,4,16,20,2,2016-04
+121,2016-04-20,West Africa,Nigeria,"Failed attack, kidnap/ransom",Supply vessel,0,Off shore,3.65111111111111,6.1183333333333305,Morning,1,0,2016,4,16,20,2,2016-04
+119,2016-04-21,Americas,Peru,"Failed attack, theft",Product tanker,0,Anchorage,-11.9963888888889,-76.77444444444441,Evening,1,0,2016,4,16,21,3,2016-04
+120,2016-04-21,South East Asia,Philippines,Suspicious activity at sea,Bulk carrier,0,Off shore,10.6333333333333,120.566666666667,Evening,1,0,2016,4,16,21,3,2016-04
+117,2016-04-23,North East Asia,China,Theft at sea,Tanker,0,Anchorage,37.834722222222204,120.03333333333299,Night,1,1,2016,4,16,23,5,2016-04
+118,2016-04-23,West Africa,Nigeria,Hijacking at sea,Unknown vessel type,0,Off shore,4.3087536111111095,6.22856138888889,Unknown,1,1,2016,4,16,23,5,2016-04
+116,2016-04-24,East Africa,Yemen,Other maritime risk,Tanker,0,Unknown,14.418888888888901,49.133333333333304,Evening,1,1,2016,4,16,24,6,2016-04
+115,2016-04-25,West Africa,Congo,Theft at anchorage,Supply vessel,0,Anchorage,-3.25,11.833333333333302,Night,1,1,2016,4,17,25,0,2016-04
+114,2016-04-25,South East Asia,Singapore,Theft at anchorage,Other,0,Anchorage,1.15,103.9525,Morning,1,1,2016,4,17,25,0,2016-04
+113,2016-04-25,North East Asia,China,"Failed attack, theft",Bulk carrier,0,Berth,35.35,119.53333333333299,Evening,1,0,2016,4,17,25,0,2016-04
+112,2016-04-26,Eastern Mediterranean,Yemen,Counter insurgency/military operation,Unknown vessel type,0,Unknown,14.5171211111111,49.1631316666667,Unknown,1,1,2016,4,17,26,1,2016-04
+111,2016-04-27,South East Asia,Malaysia,Suspicious activity at sea,Tug,0,Off shore,5.66666666666667,114.33,Morning,1,0,2016,4,17,27,2,2016-04
+110,2016-04-28,West Africa,Nigeria,"Failed attack, kidnap/ransom",Tanker,0,Off shore,3.93333333333333,4.75,Morning,1,0,2016,4,17,28,3,2016-04
+109,2016-04-28,West Africa,Nigeria,"Failed attack, kidnap/ransom",Tanker,0,Off shore,4.33333333333333,4.45,Afternoon,1,0,2016,4,17,28,3,2016-04
+108,2016-04-29,North East Asia,China,Theft at anchorage,Bulk carrier,0,Anchorage,38.9305555555556,119.23888888888901,Night,1,1,2016,4,17,29,4,2016-04
+107,2016-04-30,South Asia,India,Theft at anchorage,Crude oil tanker,0,Anchorage,17.5944444444444,83.425,Morning,1,1,2016,4,17,30,5,2016-04
+756,2016-05-01,West Africa,Nigeria,"Failed attack, robbery",Passenger vessel,0,Off shore,4.56666666666667,8.28333333333333,Morning,1,0,2016,5,17,1,6,2016-05
+755,2016-05-02,East Africa,Kenya,Theft at berth,Product tanker,0,Berth,-3.9353127777777797,39.6836469444444,Night,1,1,2016,5,18,2,0,2016-05
+754,2016-05-03,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.65,7.5,Unknown,1,1,2016,5,18,3,1,2016-05
+753,2016-05-03,West Africa,Congo,Theft at anchorage,Merchant vessel,0,Anchorage,-4.15,13.433333333333302,Night,1,1,2016,5,18,3,1,2016-05
+752,2016-05-03,West Africa,Nigeria,Kidnap/ransom at anchorage,Passenger vessel,0,Anchorage,4.48333333333333,6.33333333333333,Morning,1,1,2016,5,18,3,1,2016-05
+751,2016-05-03,Americas,Colombia,Theft at anchorage,Other,0,Anchorage,10.3111111111111,-74.4388888888889,Night,1,1,2016,5,18,3,1,2016-05
+750,2016-05-03,West Africa,Nigeria,"Failed attack, kidnap/ransom",Other,0,Off shore,4.621084444444441,6.23817444444444,Afternoon,1,0,2016,5,18,3,1,2016-05
+749,2016-05-04,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,3.9002777777777795,5.285,Night,1,0,2016,5,18,4,2,2016-05
+748,2016-05-04,South East Asia,Indonesia,Theft at sea,Bulk carrier,0,Off shore,-0.666666666666667,116.866666666667,Night,1,1,2016,5,18,4,2,2016-05
+747,2016-05-04,South East Asia,Indonesia,Armed robbery at anchorage,Bulk carrier,0,Anchorage,-0.00416666666666667,117.666666666667,Night,1,1,2016,5,18,4,2,2016-05
+746,2016-05-04,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.58796777777778,5.12632361111111,Evening,1,1,2016,5,18,4,2,2016-05
+741,2016-05-05,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.55311416666667,5.43685916666667,Evening,1,1,2016,5,18,5,3,2016-05
+742,2016-05-05,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,3.85,5.383611111111111,Afternoon,1,0,2016,5,18,5,3,2016-05
+743,2016-05-05,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,3.9008333333333303,5.5002777777777805,Night,1,0,2016,5,18,5,3,2016-05
+745,2016-05-05,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.66272416666667,5.275840555555559,Unknown,1,1,2016,5,18,5,3,2016-05
+744,2016-05-05,East Africa,Yemen,Notice,Unknown vessel type,0,Unknown,12.7330497222222,44.7789,Unknown,1,0,2016,5,18,5,3,2016-05
+740,2016-05-07,West Africa,Nigeria,"Failed attack, kidnap/ransom",Product tanker,0,Off shore,3.7,5.16666666666667,Afternoon,1,0,2016,5,18,7,5,2016-05
+739,2016-05-07,South East Asia,Indonesia,Hijacking at sea,Product tanker,0,Off shore,-1.91196027777778,108.599853333333,Evening,1,1,2016,5,18,7,5,2016-05
+738,2016-05-08,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,-0.687522222222222,116.820373333333,Unknown,1,1,2016,5,18,8,6,2016-05
+737,2016-05-08,South Asia,India,"Failed attack, theft",Gas tanker,0,Anchorage,17.6169444444444,83.3666666666667,Morning,1,0,2016,5,18,8,6,2016-05
+736,2016-05-08,South East Asia,Malaysia,"Failed attack, theft",Product tanker,0,Off shore,3.3333333333333304,109.6,Evening,1,0,2016,5,18,8,6,2016-05
+735,2016-05-09,South East Asia,Indonesia,Anti-piracy/naval operation,Tanker,0,Unknown,-4.61803833333333,112.97790527777799,Afternoon,1,0,2016,5,19,9,0,2016-05
+734,2016-05-09,South East Asia,Vietnam,Theft at anchorage,Container ship,0,Anchorage,10.1833333333333,107.066666666667,Evening,1,1,2016,5,19,9,0,2016-05
+733,2016-05-09,West Africa,Togo,Suspicious activity at sea,Tanker,0,Anchorage,6.0,1.31666666666667,Evening,1,0,2016,5,19,9,0,2016-05
+732,2016-05-11,West Africa,Togo,"Failed attack, theft",Product tanker,0,Anchorage,6.0852777777777805,1.25,Night,1,0,2016,5,19,11,2,2016-05
+731,2016-05-12,Americas,Venezuela,Armed robbery at anchorage,Gas tanker,0,Anchorage,10.1841666666667,-63.2166666666667,Evening,1,1,2016,5,19,12,3,2016-05
+729,2016-05-13,South East Asia,Indonesia,"Failed attack, theft",Tug,0,Off shore,1.2251558333333301,104.039153888889,Unknown,1,0,2016,5,19,13,4,2016-05
+728,2016-05-13,West Africa,Nigeria,"Failed attack, kidnap/ransom",Crude oil tanker,0,Off shore,3.95,7.05,Morning,1,0,2016,5,19,13,4,2016-05
+730,2016-05-13,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.651961944444441,5.281505555555559,Unknown,1,1,2016,5,19,13,4,2016-05
+726,2016-05-14,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.538078888888889,5.5357361111111105,Unknown,1,1,2016,5,19,14,5,2016-05
+725,2016-05-14,South Asia,India,Theft at berth,Gas tanker,0,Berth,22.9849455555556,70.2307891666667,Night,1,1,2016,5,19,14,5,2016-05
+727,2016-05-14,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,5.61865,5.3287125,Unknown,1,1,2016,5,19,14,5,2016-05
+724,2016-05-15,West Africa,Nigeria,Activism,Unknown vessel type,0,Unknown,6.50158138888889,3.35975638888889,Unknown,1,0,2016,5,19,15,6,2016-05
+723,2016-05-15,South Asia,Bangladesh,"Failed attack, theft",Container ship,0,Anchorage,22.1,91.75,Night,1,0,2016,5,19,15,6,2016-05
+722,2016-05-16,East Africa,Somalia,Suspicious activity at sea,Container ship,0,Off shore,14.75,50.9666666666667,Morning,1,0,2016,5,20,16,0,2016-05
+721,2016-05-17,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.1536055555555595,6.19834888888889,Evening,1,1,2016,5,20,17,1,2016-05
+720,2016-05-18,South East Asia,Indonesia,Theft at anchorage,Bulk carrier,0,Anchorage,-0.2,117.566666666667,Night,1,1,2016,5,20,18,2,2016-05
+719,2016-05-19,South East Asia,Singapore,Theft at anchorage,Other,0,Anchorage,1.18333333333333,103.95,Night,1,1,2016,5,20,19,3,2016-05
+718,2016-05-20,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.48323027777778,5.726451944444441,Unknown,1,1,2016,5,20,20,4,2016-05
+715,2016-05-21,South East Asia,Indonesia,"Failed attack, theft",Tug,0,Anchorage,1.16666666666667,103.96666666666701,Night,1,0,2016,5,20,21,5,2016-05
+716,2016-05-21,South East Asia,Singapore,"Failed attack, robbery",Other,0,Anchorage,0.0,103.98765555555599,Night,1,0,2016,5,20,21,5,2016-05
+717,2016-05-21,South East Asia,Indonesia,Theft at anchorage,Product tanker,0,Anchorage,-6.0,106.9,Night,1,1,2016,5,20,21,5,2016-05
+714,2016-05-22,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.36191805555556,6.29516583333333,Night,1,1,2016,5,20,22,6,2016-05
+713,2016-05-22,Eastern Mediterranean,Turkey,Other maritime risk,Unknown vessel type,0,Unknown,36.0896155555556,35.893707222222204,Unknown,1,1,2016,5,20,22,6,2016-05
+712,2016-05-22,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,4.45,7.7166666666666694,Evening,1,1,2016,5,20,22,6,2016-05
+711,2016-05-23,West Africa,Sierra Leone,Anti-piracy/naval operation,Unknown vessel type,0,Unknown,8.99360055555555,-12.5142822222222,Unknown,1,0,2016,5,21,23,0,2016-05
+710,2016-05-23,West Africa,Sierra Leone,"Failed attack, robbery",Fishing vessel,0,Off shore,9.01937138888889,-12.5925597222222,Unknown,1,0,2016,5,21,23,0,2016-05
+709,2016-05-23,East Africa,South Africa,Theft at berth,Gas tanker,0,Berth,-28.115833333333303,31.044444444444398,Evening,1,1,2016,5,21,23,0,2016-05
+708,2016-05-25,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.63244666666667,5.200095,Unknown,1,1,2016,5,21,25,2,2016-05
+705,2016-05-28,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.45800416666667,6.40708916666667,Night,1,1,2016,5,21,28,5,2016-05
+704,2016-05-28,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,5.591043055555559,5.290946944444441,Afternoon,1,1,2016,5,21,28,5,2016-05
+802,2016-06-01,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Off shore,5.6397052777777805,5.23535,Morning,1,1,2016,6,22,1,2,2016-06
+801,2016-06-01,West Africa,Nigeria,Insurgency operation,Other,0,Off shore,5.568055555555559,5.6513888888888895,Evening,1,1,2016,6,22,1,2,2016-06
+800,2016-06-02,South East Asia,Malaysia,Hijacking at sea,Tug,0,Off shore,3.2888713888888903,112.885894722222,Unknown,1,1,2016,6,22,2,3,2016-06
+799,2016-06-03,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.54357027777778,6.097411944444441,Night,1,1,2016,6,22,3,4,2016-06
+798,2016-06-04,South East Asia,Malaysia,Suspicious activity at sea,Product tanker,0,Off shore,6.12963138888889,103.787841666667,Night,1,0,2016,6,22,4,5,2016-06
+797,2016-06-04,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.324501388888891,6.28417972222222,Unknown,1,1,2016,6,22,4,5,2016-06
+796,2016-06-06,West Africa,Nigeria,Counter insurgency/military operation,Unknown vessel type,0,Unknown,5.62010194444445,5.19061083333333,Unknown,1,1,2016,6,23,6,0,2016-06
+795,2016-06-06,West Africa,Nigeria,Suspicious activity at sea,Product tanker,0,Off shore,5.36861111111111,2.4008333333333303,Unknown,1,0,2016,6,23,6,0,2016-06
+792,2016-06-08,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.65055277777778,5.211510555555559,Night,1,1,2016,6,23,8,2,2016-06
+794,2016-06-08,West Africa,Nigeria,Notice,Unknown vessel type,0,Unknown,5.58318416666667,-0.10493055555555601,Unknown,1,0,2016,6,23,8,2,2016-06
+793,2016-06-08,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Unknown,21.9166666666667,89.1833333333333,Morning,1,1,2016,6,23,8,2,2016-06
+791,2016-06-09,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.55858166666667,5.37008277777778,Evening,1,1,2016,6,23,9,3,2016-06
+790,2016-06-10,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.31666666666667,6.26666666666667,Night,1,1,2016,6,23,10,4,2016-06
+789,2016-06-11,Eastern Mediterranean,Libya,Counter insurgency/military operation,Unknown vessel type,0,Unknown,31.2128013888889,16.5948486111111,Unknown,1,1,2016,6,23,11,5,2016-06
+788,2016-06-13,West Africa,Nigeria,Kidnap/ransom at sea,Passenger vessel,0,Off shore,6.409743888888889,4.28604111111111,Unknown,1,1,2016,6,24,13,0,2016-06
+787,2016-06-13,Americas,Bahamas,Other maritime risk,Other,0,Off shore,23.467276388888898,-77.85974111111109,Morning,1,1,2016,6,24,13,0,2016-06
+786,2016-06-13,West Africa,Angola,"Failed attack, robbery",Product tanker,0,Anchorage,-7.26472222222222,13.2858333333333,Evening,1,0,2016,6,24,13,0,2016-06
+785,2016-06-14,South Asia,Bangladesh,Kidnap/ransom at sea,Fishing vessel,0,Off shore,21.3395241666667,90.3460691666667,Unknown,1,1,2016,6,24,14,1,2016-06
+784,2016-06-14,South Asia,Bangladesh,Armed robbery at anchorage,Container ship,0,Anchorage,22.1333333333333,91.7333333333333,Night,1,1,2016,6,24,14,1,2016-06
+783,2016-06-15,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,6.50799333333333,4.02099611111111,Unknown,1,1,2016,6,24,15,2,2016-06
+782,2016-06-16,South East Asia,Indonesia,Armed robbery at anchorage,Other,0,Anchorage,1.16714694444444,103.97563916666701,Night,1,1,2016,6,24,16,3,2016-06
+781,2016-06-16,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,4.66666666666667,7.7166666666666694,Night,1,1,2016,6,24,16,3,2016-06
+780,2016-06-16,South East Asia,Papua New Guinea,Suspicious activity at sea,Other,0,Off shore,8.28416666666667,150.884444444444,Morning,1,0,2016,6,24,16,3,2016-06
+779,2016-06-17,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,4.66666666666667,7.1,Unknown,1,1,2016,6,24,17,4,2016-06
+778,2016-06-18,South East Asia,Indonesia,"Failed attack, robbery",Product tanker,0,Anchorage,1.6858333333333302,101.48388888888901,Night,1,0,2016,6,24,18,5,2016-06
+777,2016-06-18,South East Asia,Indonesia,Suspicious activity at anchor,Other,0,Anchorage,1.15787916666667,103.98799888888901,Night,1,0,2016,6,24,18,5,2016-06
+776,2016-06-18,South East Asia,Singapore,Theft at sea,Other,0,Off shore,1.1625,103.704166666667,Afternoon,1,1,2016,6,24,18,5,2016-06
+775,2016-06-20,South East Asia,Philippines,Kidnap/ransom at sea,Tug,0,Off shore,2.73444444444444,119.592777777778,Morning,1,1,2016,6,25,20,0,2016-06
+773,2016-06-21,South East Asia,Indonesia,Armed robbery at anchorage,Bulk carrier,0,Anchorage,1.6958333333333302,101.510277777778,Night,1,1,2016,6,25,21,1,2016-06
+774,2016-06-21,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,0.0,6.67694083333333,Night,1,1,2016,6,25,21,1,2016-06
+772,2016-06-23,West Africa,Nigeria,Insurgency operation,Unknown vessel type,0,Unknown,5.394538888888889,6.792983888888889,Night,1,1,2016,6,25,23,3,2016-06
+771,2016-06-25,Americas,Colombia,Theft at anchorage,Product tanker,0,Anchorage,10.3019444444444,-74.46444444444451,Night,1,1,2016,6,25,25,5,2016-06
+770,2016-06-25,West Africa,Nigeria,Kidnap/ransom at sea,Supply vessel,0,Off shore,4.43333333333333,7.45,Evening,1,1,2016,6,25,25,5,2016-06
+769,2016-06-26,Americas,Peru,Theft at anchorage,Bulk carrier,0,Anchorage,-11.983333333333302,-76.8166666666667,Night,1,1,2016,6,25,26,6,2016-06
+768,2016-06-26,West Africa,Nigeria,Kidnap/ransom at sea,Fishing vessel,0,Off shore,4.4,7.91666666666667,Night,1,1,2016,6,25,26,6,2016-06
+767,2016-06-27,West Africa,Nigeria,Other maritime risk,Unknown vessel type,0,Unknown,4.19741138888889,4.87792972222222,Unknown,1,1,2016,6,26,27,0,2016-06
+766,2016-06-27,West Africa,Nigeria,Kidnap/ransom at sea,Other,0,Off shore,4.48333333333333,7.66666666666667,Afternoon,1,1,2016,6,26,27,0,2016-06
+765,2016-06-27,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,6.46833333333333,3.8677777777777798,Afternoon,1,1,2016,6,26,27,0,2016-06
+764,2016-06-28,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,22.205206388888897,89.4712827777778,Unknown,1,1,2016,6,26,28,1,2016-06
+763,2016-06-28,South East Asia,Indonesia,"Failed attack, theft",Crude oil tanker,0,Anchorage,-0.5333333333333329,116.8,Night,1,0,2016,6,26,28,1,2016-06
+762,2016-06-28,South East Asia,Indonesia,Theft at anchorage,Crude oil tanker,0,Anchorage,-0.7105886111111109,116.792907777778,Night,1,1,2016,6,26,28,1,2016-06
+761,2016-06-28,Eastern Mediterranean,Turkey,"Terrorist attack, bombing",Unknown vessel type,0,Unknown,40.989746388888896,28.8031483333333,Unknown,1,1,2016,6,26,28,1,2016-06
+760,2016-06-29,South Asia,Bangladesh,Kidnap/ransom at sea,Unknown vessel type,0,Off shore,22.103454166666697,89.9038697222222,Morning,1,1,2016,6,26,29,2,2016-06
+759,2016-06-29,North Africa,Libya,Anti-piracy/naval operation,Product tanker,0,Unknown,33.3901727777778,12.3980711111111,Morning,1,0,2016,6,26,29,2,2016-06
+757,2016-06-29,South East Asia,Indonesia,Armed robbery at sea,Product tanker,0,Off shore,3.0,105.166666666667,Night,1,1,2016,6,26,29,2,2016-06
+758,2016-06-29,West Africa,Nigeria,Armed robbery at sea,Passenger vessel,0,Off shore,0.0,6.26666666666667,Unknown,1,1,2016,6,26,29,2,2016-06
