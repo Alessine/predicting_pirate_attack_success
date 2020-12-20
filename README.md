@@ -14,6 +14,7 @@ This repo took shape during my Data Science course at Propulsion Academy in Zuri
     <li><a href="#approach">Approach</a></li>
     <li><a href="#results">Results</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -51,5 +52,9 @@ The Random Forest Classifier performed best overall and was therefore fine-tuned
 <!-- Conclusion -->
 ## Conclusion
 
-It becomes clear therefore...
+As the results showed, the success of pirate attacks can only partially be predicted from the data provided. It is possible, however, that better results could be achieved with additional data, especially since the data set covers a timespan of only 18 months.
 
+<!-- Contact -->
+## Contact
+
+If you find this repo interesting or would like to suggest improvements, get in touch. I would be happy to hear from you.
