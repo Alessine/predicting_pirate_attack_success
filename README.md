@@ -2,7 +2,7 @@
 
 This repo took shape during my Data Science course at Propulsion Academy in Zurich and was inspired by various in-class exercises. It gives a good overview of the content covered during the first month.
 
-![](pirates_asterix.jpg)
+![](lego_pirates.jpg)
 
 <font size = "2"> Image copyright: Asterix & Obelix </font>
 
