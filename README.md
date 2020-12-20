@@ -42,7 +42,7 @@ First, the data was cleaned (section 2 in the jupyter notebook), then some inter
 
 The data was preprocessed (section 4), which meant one-hot-encoding most of the variables, since much of the data is categorical. The selected features were then fed into seven different untuned baseline models (section 5). The model with the best performance was fine-tuned and tested (section 6).
 
-As a final step, feature importance and SHAP values of the best model were explored (section 7) to explain how the model reaches its predictions.
+As a final step, feature importance and SHAP values of the best model were explored (also in section 6) to explain how the model reaches its predictions.
 
 <!-- Results -->
 ## Results
