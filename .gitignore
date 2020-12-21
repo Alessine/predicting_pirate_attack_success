@@ -39,3 +39,4 @@ Thumbs.db
 # Folders
 catboost_info/
 .ipynb_checkpoints/
+offline_stuff/
