@@ -21,7 +21,7 @@ Image copyright: LEGO Group
 <!-- Assignment Description -->
 ## Assignment Description
 
-The task is to predict from a data set of 802 past pirate attacks, which contains a variety of features, whether a pirate attack will be successful or not. This includes first exploring, cleaning and preprocessing the data, then feeding it into different model to compare their performance and finally fine-tuning and explaining the best-performing model.
+The task is to predict from a data set of 802 pirate attacks whether a pirate attack will be successful or not. This includes first exploring, cleaning and preprocessing the data, then feeding it into different models to compare their performance and finally fine-tuning and explaining the best-performing model.
 
 <!-- Approach -->
 ## Approach
