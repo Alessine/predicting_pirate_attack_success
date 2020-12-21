@@ -1,6 +1,6 @@
 # Predicting the Success of Pirate Attacks
 
-This repo took shape during my Data Science course at Propulsion Academy in Zurich and was inspired by various in-class exercises. It gives a good overview of the content covered during the first month.
+This repo took shape during my Data Science course at [Propulsion Academy](https://propulsion.academy/) in Zurich and was inspired by various in-class exercises. It gives a good overview of the content covered during the first month.
 
 ![](lego_pirates.jpg)
 
