@@ -4,7 +4,7 @@ This repo took shape during my Data Science course at [Propulsion Academy](https
 
 ![](lego_pirates.jpg)
 
-<font size = "2"> Image copyright: Asterix & Obelix </font>
+Image copyright: LEGO Group
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -36,7 +36,7 @@ Following is a short description of the assignment:
 <!-- Approach -->
 ## Approach
 
-The following approach taken to solve the problem: 
+The following approach was taken to solve the problem: 
 
 First, the data was cleaned (section 2 in the jupyter notebook), then some interesting visualizations were created (section 3) to explore the data set and see if there are any trends that are clearly visible.
 
