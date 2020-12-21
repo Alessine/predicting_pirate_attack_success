@@ -39,7 +39,7 @@ Please note that the interactive visualizations in sections 3 and 7 require Java
 <!-- Results -->
 ## Results
 
-The Random Forest Classifier performed best overall and was therefore fine-tuned. One of the goals of the fine-tuning, besides improving the performance, was to prevent overfitting. The model finally achieved a performance of about 70% accuracy on the test set. The features with the biggest impact on the prediction were the longitude and latitude of the attack location.
+The Random Forest Classifier performed best overall and was therefore fine-tuned. One of the goals of the fine-tuning, besides improving the performance, was to prevent overfitting. The model finally achieved a performance of about 65% balanced accuracy on the test set. The features with the biggest impact on the prediction were the longitude and latitude of the attack location.
 
 <!-- Conclusion -->
 ## Conclusion
