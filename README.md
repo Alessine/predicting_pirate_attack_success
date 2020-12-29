@@ -28,13 +28,13 @@ The task is to predict from a data set of 802 pirate attacks whether a pirate at
 
 The process was the following:
 
-First, the data was cleaned (section 2 in the jupyter notebook), then some interesting visualizations were created (section 3) to explore the data set and see if there are any trends that are clearly visible. 
+First, the data was cleaned (part 2 of the jupyter notebooks), then some interesting visualizations were created (part 3) to explore the data set and see if there are any trends that are clearly visible. 
 
-The data was preprocessed (section 4), which meant one-hot-encoding most of the variables, since much of the data is categorical. The selected features were then fed into seven different untuned baseline models (section 5). The model with the best performance was fine-tuned and tested (section 6).
+The data was preprocessed (part 4), which meant one-hot-encoding most of the variables, since much of the data is categorical. The selected features were then fed into seven different untuned baseline models (part 5). The model with the best performance was fine-tuned and tested (part 6).
 
-As a final step, feature importance and SHAP values of the best model were explored (section 7) to explain how the model reaches its predictions.
+As a final step, feature importance and SHAP values of the best model were explored (part 7) to explain how the model reaches its predictions.
 
-Please note that the interactive visualizations in sections 3 and 7 require Java Script and therefore will not render on GitHub. Instead, you can easily view them on [nbviewer](https://nbviewer.jupyter.org/).
+Please note that the interactive visualizations in the notebooks 3 and 7 require Java Script and therefore will not render on GitHub. Instead, you can view them on [nbviewer](https://nbviewer.jupyter.org/).
 
 <!-- Results -->
 ## Results
@@ -44,7 +44,7 @@ The Random Forest Classifier performed best overall and was therefore fine-tuned
 <!-- Conclusion -->
 ## Conclusion
 
-As the results showed, the success of pirate attacks can only partially be predicted from the data provided. It is possible, however, that better results could be achieved with additional data, especially since the data set covers a timespan of only 18 months.
+As the results showed, the success of pirate attacks can only partially be predicted from the data provided. Overfitting of the model to the training data remained a problem, even after cleaning the data and partially constraining the model. It is possible, however, that better results could be achieved with additional data, especially since the data set covers a timespan of only 18 months.
 
 <!-- Contact -->
 ## Contact
