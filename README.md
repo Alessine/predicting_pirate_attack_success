@@ -44,7 +44,8 @@ The Random Forest Classifier performed best overall and was therefore fine-tuned
 <!-- Conclusion -->
 ## Conclusion
 
-As the results showed, the success of pirate attacks can only partially be predicted from the data provided. Overfitting of the model to the training data remained a problem, even after cleaning the data and partially constraining the model. It is possible, however, that better results could be achieved with additional data, especially since the data set covers a timespan of only 18 months.
+As the results show, it is partially possible to predict the success or failure of pirate attacks from the limited amount of data provided. Overfitting of the model to the training data remains a problem, even after cleaning the data and partially constraining the model. This requires further work and it might also be interesting to finetune a more simple model, such as a logistic regression.
+It is also likely that better results could be achieved with additional data, especially since the data set covers a timespan of only 18 months.
 
 <!-- Contact -->
 ## Contact
